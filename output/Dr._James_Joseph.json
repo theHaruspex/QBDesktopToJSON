@@ -1,0 +1,83 @@
+{
+    "customer": "Dr. James Joseph",
+    "Source Name": "Dr. James Joseph",
+    "Name Address": "60691 Lisa Curve Apt. 244, Lake Samanthaton, ME 92995",
+    "Name Street1": "60691 Lisa Curve Apt. 244",
+    "Name Street2": "",
+    "Name City": "Lake Samanthaton",
+    "Name State": "ME",
+    "Name Zip": "92995",
+    "Name Contact": "",
+    "Name Phone #": "364.932.7509x638",
+    "Name Fax #": "",
+    "Name E-Mail": "qvaughan@freeman-martin.com",
+    "Name": "Dr. James Joseph",
+    "Ship To Address 1": "",
+    "Ship To Address 2": "",
+    "Ship To State": "",
+    "Ship Zip": "",
+    "Notes": "",
+    "Last Name": "Joseph",
+    "First Name": "Dr.",
+    "Customer Class": "General",
+    "total_sales": "0.00",
+    "purchases": [
+        {
+            "Num": "82128",
+            "invoices": [
+                {
+                    "Type": "Invoice",
+                    "Date": "08/25/2020",
+                    "Num": "82128",
+                    "Memo": "Generated Invoice",
+                    "total Quantity": "",
+                    "Item": "Break",
+                    "Class": "General",
+                    "Qty": "2",
+                    "Sales Price": "8.08",
+                    "Amount": "16.16",
+                    "Balance": "16.16",
+                    "State": "Latest"
+                }
+            ]
+        },
+        {
+            "Num": "16183",
+            "invoices": [
+                {
+                    "Type": "Invoice",
+                    "Date": "03/31/2017",
+                    "Num": "16183",
+                    "Memo": "Generated Invoice",
+                    "total Quantity": "",
+                    "Item": "Democrat",
+                    "Class": "General",
+                    "Qty": "2",
+                    "Sales Price": "10.88",
+                    "Amount": "21.76",
+                    "Balance": "21.76",
+                    "State": "Latest"
+                }
+            ]
+        },
+        {
+            "Num": "64984",
+            "invoices": [
+                {
+                    "Type": "Invoice",
+                    "Date": "07/30/2015",
+                    "Num": "64984",
+                    "Memo": "Generated Invoice",
+                    "total Quantity": "",
+                    "Item": "Edge",
+                    "Class": "General",
+                    "Qty": "5",
+                    "Sales Price": "39.14",
+                    "Amount": "195.7",
+                    "Balance": "195.7",
+                    "State": "Latest"
+                }
+            ]
+        }
+    ]
+}

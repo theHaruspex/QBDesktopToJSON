@@ -1,0 +1,83 @@
+{
+    "customer": "Jennifer Thomas",
+    "Source Name": "Jennifer Thomas",
+    "Name Address": "1052 Daniel Lane Suite 744, Jonathanmouth, RI 16758",
+    "Name Street1": "1052 Daniel Lane Suite 744",
+    "Name Street2": "",
+    "Name City": "Jonathanmouth",
+    "Name State": "RI",
+    "Name Zip": "16758",
+    "Name Contact": "",
+    "Name Phone #": "001-563-934-4603x17838",
+    "Name Fax #": "",
+    "Name E-Mail": "jmoreno@hotmail.com",
+    "Name": "Jennifer Thomas",
+    "Ship To Address 1": "",
+    "Ship To Address 2": "",
+    "Ship To State": "",
+    "Ship Zip": "",
+    "Notes": "",
+    "Last Name": "Thomas",
+    "First Name": "Jennifer",
+    "Customer Class": "General",
+    "total_sales": "0.00",
+    "purchases": [
+        {
+            "Num": "21781",
+            "invoices": [
+                {
+                    "Type": "Invoice",
+                    "Date": "07/25/2018",
+                    "Num": "21781",
+                    "Memo": "Generated Invoice",
+                    "total Quantity": "",
+                    "Item": "Group",
+                    "Class": "General",
+                    "Qty": "4",
+                    "Sales Price": "18.75",
+                    "Amount": "75.0",
+                    "Balance": "75.0",
+                    "State": "Latest"
+                }
+            ]
+        },
+        {
+            "Num": "17794",
+            "invoices": [
+                {
+                    "Type": "Invoice",
+                    "Date": "05/08/2018",
+                    "Num": "17794",
+                    "Memo": "Generated Invoice",
+                    "total Quantity": "",
+                    "Item": "Stay",
+                    "Class": "General",
+                    "Qty": "3",
+                    "Sales Price": "22.58",
+                    "Amount": "67.74",
+                    "Balance": "67.74",
+                    "State": "Latest"
+                }
+            ]
+        },
+        {
+            "Num": "43282",
+            "invoices": [
+                {
+                    "Type": "Invoice",
+                    "Date": "05/20/2023",
+                    "Num": "43282",
+                    "Memo": "Generated Invoice",
+                    "total Quantity": "",
+                    "Item": "Life",
+                    "Class": "General",
+                    "Qty": "2",
+                    "Sales Price": "19.24",
+                    "Amount": "38.48",
+                    "Balance": "38.48",
+                    "State": "Latest"
+                }
+            ]
+        }
+    ]
+}

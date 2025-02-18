@@ -1,0 +1,83 @@
+{
+    "customer": "David Knox",
+    "Source Name": "David Knox",
+    "Name Address": "5145 Pollard Loaf Apt. 551, Elizabethport, KY 25536",
+    "Name Street1": "5145 Pollard Loaf Apt. 551",
+    "Name Street2": "",
+    "Name City": "Elizabethport",
+    "Name State": "KY",
+    "Name Zip": "25536",
+    "Name Contact": "",
+    "Name Phone #": "+1-914-615-8924x14501",
+    "Name Fax #": "",
+    "Name E-Mail": "kellypaul@butler-jennings.biz",
+    "Name": "David Knox",
+    "Ship To Address 1": "",
+    "Ship To Address 2": "",
+    "Ship To State": "",
+    "Ship Zip": "",
+    "Notes": "",
+    "Last Name": "Knox",
+    "First Name": "David",
+    "Customer Class": "General",
+    "total_sales": "0.00",
+    "purchases": [
+        {
+            "Num": "90225",
+            "invoices": [
+                {
+                    "Type": "Invoice",
+                    "Date": "09/08/2023",
+                    "Num": "90225",
+                    "Memo": "Generated Invoice",
+                    "total Quantity": "",
+                    "Item": "Herself",
+                    "Class": "General",
+                    "Qty": "2",
+                    "Sales Price": "9.35",
+                    "Amount": "18.7",
+                    "Balance": "18.7",
+                    "State": "Latest"
+                }
+            ]
+        },
+        {
+            "Num": "10362",
+            "invoices": [
+                {
+                    "Type": "Invoice",
+                    "Date": "03/23/2021",
+                    "Num": "10362",
+                    "Memo": "Generated Invoice",
+                    "total Quantity": "",
+                    "Item": "Decide",
+                    "Class": "General",
+                    "Qty": "3",
+                    "Sales Price": "44.14",
+                    "Amount": "132.42",
+                    "Balance": "132.42",
+                    "State": "Latest"
+                }
+            ]
+        },
+        {
+            "Num": "92904",
+            "invoices": [
+                {
+                    "Type": "Invoice",
+                    "Date": "12/27/2017",
+                    "Num": "92904",
+                    "Memo": "Generated Invoice",
+                    "total Quantity": "",
+                    "Item": "Require",
+                    "Class": "General",
+                    "Qty": "1",
+                    "Sales Price": "42.62",
+                    "Amount": "42.62",
+                    "Balance": "42.62",
+                    "State": "Latest"
+                }
+            ]
+        }
+    ]
+}

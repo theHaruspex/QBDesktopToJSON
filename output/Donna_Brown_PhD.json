@@ -1,0 +1,83 @@
+{
+    "customer": "Donna Brown PhD",
+    "Source Name": "Donna Brown PhD",
+    "Name Address": "21796 Perez Points Apt. 957, Seanport, DC 21350",
+    "Name Street1": "21796 Perez Points Apt. 957",
+    "Name Street2": "",
+    "Name City": "Seanport",
+    "Name State": "DC",
+    "Name Zip": "21350",
+    "Name Contact": "",
+    "Name Phone #": "(796)015-9606",
+    "Name Fax #": "",
+    "Name E-Mail": "leah92@boyd.net",
+    "Name": "Donna Brown PhD",
+    "Ship To Address 1": "",
+    "Ship To Address 2": "",
+    "Ship To State": "",
+    "Ship Zip": "",
+    "Notes": "",
+    "Last Name": "PhD",
+    "First Name": "Donna",
+    "Customer Class": "General",
+    "total_sales": "0.00",
+    "purchases": [
+        {
+            "Num": "78689",
+            "invoices": [
+                {
+                    "Type": "Invoice",
+                    "Date": "07/18/2023",
+                    "Num": "78689",
+                    "Memo": "Generated Invoice",
+                    "total Quantity": "",
+                    "Item": "Federal",
+                    "Class": "General",
+                    "Qty": "3",
+                    "Sales Price": "14.13",
+                    "Amount": "42.39",
+                    "Balance": "42.39",
+                    "State": "Latest"
+                }
+            ]
+        },
+        {
+            "Num": "21143",
+            "invoices": [
+                {
+                    "Type": "Invoice",
+                    "Date": "07/29/2017",
+                    "Num": "21143",
+                    "Memo": "Generated Invoice",
+                    "total Quantity": "",
+                    "Item": "Language",
+                    "Class": "General",
+                    "Qty": "1",
+                    "Sales Price": "11.27",
+                    "Amount": "11.27",
+                    "Balance": "11.27",
+                    "State": "Latest"
+                }
+            ]
+        },
+        {
+            "Num": "82051",
+            "invoices": [
+                {
+                    "Type": "Invoice",
+                    "Date": "05/09/2016",
+                    "Num": "82051",
+                    "Memo": "Generated Invoice",
+                    "total Quantity": "",
+                    "Item": "Push",
+                    "Class": "General",
+                    "Qty": "5",
+                    "Sales Price": "41.73",
+                    "Amount": "208.65",
+                    "Balance": "208.65",
+                    "State": "Latest"
+                }
+            ]
+        }
+    ]
+}

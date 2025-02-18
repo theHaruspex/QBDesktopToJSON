@@ -1,0 +1,83 @@
+{
+    "customer": "Christopher Garrett",
+    "Source Name": "Christopher Garrett",
+    "Name Address": "337 Hill Points Suite 529, West Georgehaven, OR 47086",
+    "Name Street1": "337 Hill Points Suite 529",
+    "Name Street2": "",
+    "Name City": "West Georgehaven",
+    "Name State": "OR",
+    "Name Zip": "47086",
+    "Name Contact": "",
+    "Name Phone #": "650.994.8281x0866",
+    "Name Fax #": "",
+    "Name E-Mail": "robertsonvictoria@gmail.com",
+    "Name": "Christopher Garrett",
+    "Ship To Address 1": "",
+    "Ship To Address 2": "",
+    "Ship To State": "",
+    "Ship Zip": "",
+    "Notes": "",
+    "Last Name": "Garrett",
+    "First Name": "Christopher",
+    "Customer Class": "General",
+    "total_sales": "0.00",
+    "purchases": [
+        {
+            "Num": "22165",
+            "invoices": [
+                {
+                    "Type": "Invoice",
+                    "Date": "07/13/2020",
+                    "Num": "22165",
+                    "Memo": "Generated Invoice",
+                    "total Quantity": "",
+                    "Item": "News",
+                    "Class": "General",
+                    "Qty": "1",
+                    "Sales Price": "49.87",
+                    "Amount": "49.87",
+                    "Balance": "49.87",
+                    "State": "Latest"
+                }
+            ]
+        },
+        {
+            "Num": "84790",
+            "invoices": [
+                {
+                    "Type": "Invoice",
+                    "Date": "09/11/2024",
+                    "Num": "84790",
+                    "Memo": "Generated Invoice",
+                    "total Quantity": "",
+                    "Item": "Return",
+                    "Class": "General",
+                    "Qty": "5",
+                    "Sales Price": "26.9",
+                    "Amount": "134.5",
+                    "Balance": "134.5",
+                    "State": "Latest"
+                }
+            ]
+        },
+        {
+            "Num": "83282",
+            "invoices": [
+                {
+                    "Type": "Invoice",
+                    "Date": "07/06/2019",
+                    "Num": "83282",
+                    "Memo": "Generated Invoice",
+                    "total Quantity": "",
+                    "Item": "Open",
+                    "Class": "General",
+                    "Qty": "2",
+                    "Sales Price": "36.54",
+                    "Amount": "73.08",
+                    "Balance": "73.08",
+                    "State": "Latest"
+                }
+            ]
+        }
+    ]
+}

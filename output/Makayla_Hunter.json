@@ -1,0 +1,83 @@
+{
+    "customer": "Makayla Hunter",
+    "Source Name": "Makayla Hunter",
+    "Name Address": "6895 Lonnie Fork, Velazquezport, WV 92605",
+    "Name Street1": "6895 Lonnie Fork",
+    "Name Street2": "",
+    "Name City": "Velazquezport",
+    "Name State": "WV",
+    "Name Zip": "92605",
+    "Name Contact": "",
+    "Name Phone #": "+1-882-294-0979x3635",
+    "Name Fax #": "",
+    "Name E-Mail": "robbinstimothy@gmail.com",
+    "Name": "Makayla Hunter",
+    "Ship To Address 1": "",
+    "Ship To Address 2": "",
+    "Ship To State": "",
+    "Ship Zip": "",
+    "Notes": "",
+    "Last Name": "Hunter",
+    "First Name": "Makayla",
+    "Customer Class": "General",
+    "total_sales": "0.00",
+    "purchases": [
+        {
+            "Num": "74055",
+            "invoices": [
+                {
+                    "Type": "Invoice",
+                    "Date": "12/15/2019",
+                    "Num": "74055",
+                    "Memo": "Generated Invoice",
+                    "total Quantity": "",
+                    "Item": "Family",
+                    "Class": "General",
+                    "Qty": "1",
+                    "Sales Price": "8.7",
+                    "Amount": "8.7",
+                    "Balance": "8.7",
+                    "State": "Latest"
+                }
+            ]
+        },
+        {
+            "Num": "67757",
+            "invoices": [
+                {
+                    "Type": "Invoice",
+                    "Date": "08/27/2021",
+                    "Num": "67757",
+                    "Memo": "Generated Invoice",
+                    "total Quantity": "",
+                    "Item": "Friend",
+                    "Class": "General",
+                    "Qty": "5",
+                    "Sales Price": "24.3",
+                    "Amount": "121.5",
+                    "Balance": "121.5",
+                    "State": "Latest"
+                }
+            ]
+        },
+        {
+            "Num": "30118",
+            "invoices": [
+                {
+                    "Type": "Invoice",
+                    "Date": "12/27/2022",
+                    "Num": "30118",
+                    "Memo": "Generated Invoice",
+                    "total Quantity": "",
+                    "Item": "Others",
+                    "Class": "General",
+                    "Qty": "4",
+                    "Sales Price": "46.5",
+                    "Amount": "186.0",
+                    "Balance": "186.0",
+                    "State": "Latest"
+                }
+            ]
+        }
+    ]
+}

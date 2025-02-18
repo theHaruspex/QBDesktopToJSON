@@ -1,0 +1,83 @@
+{
+    "customer": "Charles Hernandez",
+    "Source Name": "Charles Hernandez",
+    "Name Address": "63033 Brown Estates Apt. 208, Port Laura, OK 75547",
+    "Name Street1": "63033 Brown Estates Apt. 208",
+    "Name Street2": "",
+    "Name City": "Port Laura",
+    "Name State": "OK",
+    "Name Zip": "75547",
+    "Name Contact": "",
+    "Name Phone #": "726-436-5659x2604",
+    "Name Fax #": "",
+    "Name E-Mail": "richard89@gmail.com",
+    "Name": "Charles Hernandez",
+    "Ship To Address 1": "",
+    "Ship To Address 2": "",
+    "Ship To State": "",
+    "Ship Zip": "",
+    "Notes": "",
+    "Last Name": "Hernandez",
+    "First Name": "Charles",
+    "Customer Class": "General",
+    "total_sales": "0.00",
+    "purchases": [
+        {
+            "Num": "12635",
+            "invoices": [
+                {
+                    "Type": "Invoice",
+                    "Date": "02/17/2016",
+                    "Num": "12635",
+                    "Memo": "Generated Invoice",
+                    "total Quantity": "",
+                    "Item": "Hard",
+                    "Class": "General",
+                    "Qty": "3",
+                    "Sales Price": "27.78",
+                    "Amount": "83.34",
+                    "Balance": "83.34",
+                    "State": "Latest"
+                }
+            ]
+        },
+        {
+            "Num": "52540",
+            "invoices": [
+                {
+                    "Type": "Invoice",
+                    "Date": "02/15/2020",
+                    "Num": "52540",
+                    "Memo": "Generated Invoice",
+                    "total Quantity": "",
+                    "Item": "Project",
+                    "Class": "General",
+                    "Qty": "2",
+                    "Sales Price": "12.57",
+                    "Amount": "25.14",
+                    "Balance": "25.14",
+                    "State": "Latest"
+                }
+            ]
+        },
+        {
+            "Num": "99573",
+            "invoices": [
+                {
+                    "Type": "Invoice",
+                    "Date": "04/12/2023",
+                    "Num": "99573",
+                    "Memo": "Generated Invoice",
+                    "total Quantity": "",
+                    "Item": "Thank",
+                    "Class": "General",
+                    "Qty": "4",
+                    "Sales Price": "10.94",
+                    "Amount": "43.76",
+                    "Balance": "43.76",
+                    "State": "Latest"
+                }
+            ]
+        }
+    ]
+}

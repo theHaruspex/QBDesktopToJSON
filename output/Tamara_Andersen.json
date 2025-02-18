@@ -1,0 +1,83 @@
+{
+    "customer": "Tamara Andersen",
+    "Source Name": "Tamara Andersen",
+    "Name Address": "353 Laura Rapids, Garyton, ND 06610",
+    "Name Street1": "353 Laura Rapids",
+    "Name Street2": "",
+    "Name City": "Garyton",
+    "Name State": "ND",
+    "Name Zip": "06610",
+    "Name Contact": "",
+    "Name Phone #": "(659)618-6206",
+    "Name Fax #": "",
+    "Name E-Mail": "julieross@gmail.com",
+    "Name": "Tamara Andersen",
+    "Ship To Address 1": "",
+    "Ship To Address 2": "",
+    "Ship To State": "",
+    "Ship Zip": "",
+    "Notes": "",
+    "Last Name": "Andersen",
+    "First Name": "Tamara",
+    "Customer Class": "General",
+    "total_sales": "0.00",
+    "purchases": [
+        {
+            "Num": "69263",
+            "invoices": [
+                {
+                    "Type": "Invoice",
+                    "Date": "02/06/2020",
+                    "Num": "69263",
+                    "Memo": "Generated Invoice",
+                    "total Quantity": "",
+                    "Item": "Let",
+                    "Class": "General",
+                    "Qty": "5",
+                    "Sales Price": "29.68",
+                    "Amount": "148.4",
+                    "Balance": "148.4",
+                    "State": "Latest"
+                }
+            ]
+        },
+        {
+            "Num": "54662",
+            "invoices": [
+                {
+                    "Type": "Invoice",
+                    "Date": "11/16/2021",
+                    "Num": "54662",
+                    "Memo": "Generated Invoice",
+                    "total Quantity": "",
+                    "Item": "Billion",
+                    "Class": "General",
+                    "Qty": "4",
+                    "Sales Price": "42.07",
+                    "Amount": "168.28",
+                    "Balance": "168.28",
+                    "State": "Latest"
+                }
+            ]
+        },
+        {
+            "Num": "78282",
+            "invoices": [
+                {
+                    "Type": "Invoice",
+                    "Date": "08/06/2021",
+                    "Num": "78282",
+                    "Memo": "Generated Invoice",
+                    "total Quantity": "",
+                    "Item": "Attention",
+                    "Class": "General",
+                    "Qty": "1",
+                    "Sales Price": "13.09",
+                    "Amount": "13.09",
+                    "Balance": "13.09",
+                    "State": "Latest"
+                }
+            ]
+        }
+    ]
+}

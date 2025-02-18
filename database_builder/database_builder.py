@@ -1,5 +1,5 @@
-from _archive.builder.csv_parser import CSVParser
-from _archive.builder.customer_aggregator import CustomerAggregator
+from database_builder.csv_parser import CSVParser
+from database_builder.customer_aggregator import CustomerAggregator
 from collections import Counter
 
 

@@ -1,0 +1,83 @@
+{
+    "customer": "Jamie Conway",
+    "Source Name": "Jamie Conway",
+    "Name Address": "0255 Melissa Shores, West Charles, NC 45858",
+    "Name Street1": "0255 Melissa Shores",
+    "Name Street2": "",
+    "Name City": "West Charles",
+    "Name State": "NC",
+    "Name Zip": "45858",
+    "Name Contact": "",
+    "Name Phone #": "001-221-017-7412x3515",
+    "Name Fax #": "",
+    "Name E-Mail": "tiffanyhenderson@yahoo.com",
+    "Name": "Jamie Conway",
+    "Ship To Address 1": "",
+    "Ship To Address 2": "",
+    "Ship To State": "",
+    "Ship Zip": "",
+    "Notes": "",
+    "Last Name": "Conway",
+    "First Name": "Jamie",
+    "Customer Class": "General",
+    "total_sales": "0.00",
+    "purchases": [
+        {
+            "Num": "19588",
+            "invoices": [
+                {
+                    "Type": "Invoice",
+                    "Date": "09/25/2018",
+                    "Num": "19588",
+                    "Memo": "Generated Invoice",
+                    "total Quantity": "",
+                    "Item": "Success",
+                    "Class": "General",
+                    "Qty": "2",
+                    "Sales Price": "39.73",
+                    "Amount": "79.46",
+                    "Balance": "79.46",
+                    "State": "Latest"
+                }
+            ]
+        },
+        {
+            "Num": "31343",
+            "invoices": [
+                {
+                    "Type": "Invoice",
+                    "Date": "05/05/2019",
+                    "Num": "31343",
+                    "Memo": "Generated Invoice",
+                    "total Quantity": "",
+                    "Item": "Market",
+                    "Class": "General",
+                    "Qty": "1",
+                    "Sales Price": "40.37",
+                    "Amount": "40.37",
+                    "Balance": "40.37",
+                    "State": "Latest"
+                }
+            ]
+        },
+        {
+            "Num": "33003",
+            "invoices": [
+                {
+                    "Type": "Invoice",
+                    "Date": "03/10/2020",
+                    "Num": "33003",
+                    "Memo": "Generated Invoice",
+                    "total Quantity": "",
+                    "Item": "Avoid",
+                    "Class": "General",
+                    "Qty": "2",
+                    "Sales Price": "28.52",
+                    "Amount": "57.04",
+                    "Balance": "57.04",
+                    "State": "Latest"
+                }
+            ]
+        }
+    ]
+}

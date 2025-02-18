@@ -1,0 +1,83 @@
+{
+    "customer": "Christopher Fischer",
+    "Source Name": "Christopher Fischer",
+    "Name Address": "9113 Caitlin Fort Suite 698, Richardshire, CT 85926",
+    "Name Street1": "9113 Caitlin Fort Suite 698",
+    "Name Street2": "",
+    "Name City": "Richardshire",
+    "Name State": "CT",
+    "Name Zip": "85926",
+    "Name Contact": "",
+    "Name Phone #": "(289)869-6815x69020",
+    "Name Fax #": "",
+    "Name E-Mail": "michelle56@gmail.com",
+    "Name": "Christopher Fischer",
+    "Ship To Address 1": "",
+    "Ship To Address 2": "",
+    "Ship To State": "",
+    "Ship Zip": "",
+    "Notes": "",
+    "Last Name": "Fischer",
+    "First Name": "Christopher",
+    "Customer Class": "General",
+    "total_sales": "0.00",
+    "purchases": [
+        {
+            "Num": "88237",
+            "invoices": [
+                {
+                    "Type": "Invoice",
+                    "Date": "05/31/2018",
+                    "Num": "88237",
+                    "Memo": "Generated Invoice",
+                    "total Quantity": "",
+                    "Item": "Friend",
+                    "Class": "General",
+                    "Qty": "3",
+                    "Sales Price": "39.79",
+                    "Amount": "119.37",
+                    "Balance": "119.37",
+                    "State": "Latest"
+                }
+            ]
+        },
+        {
+            "Num": "82618",
+            "invoices": [
+                {
+                    "Type": "Invoice",
+                    "Date": "05/30/2024",
+                    "Num": "82618",
+                    "Memo": "Generated Invoice",
+                    "total Quantity": "",
+                    "Item": "Particularly",
+                    "Class": "General",
+                    "Qty": "2",
+                    "Sales Price": "38.94",
+                    "Amount": "77.88",
+                    "Balance": "77.88",
+                    "State": "Latest"
+                }
+            ]
+        },
+        {
+            "Num": "15598",
+            "invoices": [
+                {
+                    "Type": "Invoice",
+                    "Date": "05/16/2024",
+                    "Num": "15598",
+                    "Memo": "Generated Invoice",
+                    "total Quantity": "",
+                    "Item": "Contain",
+                    "Class": "General",
+                    "Qty": "3",
+                    "Sales Price": "34.16",
+                    "Amount": "102.48",
+                    "Balance": "102.48",
+                    "State": "Latest"
+                }
+            ]
+        }
+    ]
+}

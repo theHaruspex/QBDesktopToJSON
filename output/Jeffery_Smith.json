@@ -1,0 +1,83 @@
+{
+    "customer": "Jeffery Smith",
+    "Source Name": "Jeffery Smith",
+    "Name Address": "44946 Blackwell Cove, Lake Megan, MT 04890",
+    "Name Street1": "44946 Blackwell Cove",
+    "Name Street2": "",
+    "Name City": "Lake Megan",
+    "Name State": "MT",
+    "Name Zip": "04890",
+    "Name Contact": "",
+    "Name Phone #": "498-793-8147",
+    "Name Fax #": "",
+    "Name E-Mail": "omartin@dixon-silva.biz",
+    "Name": "Jeffery Smith",
+    "Ship To Address 1": "",
+    "Ship To Address 2": "",
+    "Ship To State": "",
+    "Ship Zip": "",
+    "Notes": "",
+    "Last Name": "Smith",
+    "First Name": "Jeffery",
+    "Customer Class": "General",
+    "total_sales": "0.00",
+    "purchases": [
+        {
+            "Num": "18589",
+            "invoices": [
+                {
+                    "Type": "Invoice",
+                    "Date": "10/23/2018",
+                    "Num": "18589",
+                    "Memo": "Generated Invoice",
+                    "total Quantity": "",
+                    "Item": "Source",
+                    "Class": "General",
+                    "Qty": "3",
+                    "Sales Price": "8.72",
+                    "Amount": "26.16",
+                    "Balance": "26.16",
+                    "State": "Latest"
+                }
+            ]
+        },
+        {
+            "Num": "40294",
+            "invoices": [
+                {
+                    "Type": "Invoice",
+                    "Date": "04/27/2021",
+                    "Num": "40294",
+                    "Memo": "Generated Invoice",
+                    "total Quantity": "",
+                    "Item": "Record",
+                    "Class": "General",
+                    "Qty": "1",
+                    "Sales Price": "49.11",
+                    "Amount": "49.11",
+                    "Balance": "49.11",
+                    "State": "Latest"
+                }
+            ]
+        },
+        {
+            "Num": "57513",
+            "invoices": [
+                {
+                    "Type": "Invoice",
+                    "Date": "01/26/2022",
+                    "Num": "57513",
+                    "Memo": "Generated Invoice",
+                    "total Quantity": "",
+                    "Item": "Kitchen",
+                    "Class": "General",
+                    "Qty": "4",
+                    "Sales Price": "43.81",
+                    "Amount": "175.24",
+                    "Balance": "175.24",
+                    "State": "Latest"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "customer": "Cassandra Zimmerman",
+    "Source Name": "Cassandra Zimmerman",
+    "Name Address": "472 Laura Points Suite 620, Johnsonfurt, PA 58415",
+    "Name Street1": "472 Laura Points Suite 620",
+    "Name Street2": "",
+    "Name City": "Johnsonfurt",
+    "Name State": "PA",
+    "Name Zip": "58415",
+    "Name Contact": "",
+    "Name Phone #": "810.598.9889",
+    "Name Fax #": "",
+    "Name E-Mail": "georgewendy@yahoo.com",
+    "Name": "Cassandra Zimmerman",
+    "Ship To Address 1": "",
+    "Ship To Address 2": "",
+    "Ship To State": "",
+    "Ship Zip": "",
+    "Notes": "",
+    "Last Name": "Zimmerman",
+    "First Name": "Cassandra",
+    "Customer Class": "General",
+    "total_sales": "0.00",
+    "purchases": [
+        {
+            "Num": "56172",
+            "invoices": [
+                {
+                    "Type": "Invoice",
+                    "Date": "04/05/2024",
+                    "Num": "56172",
+                    "Memo": "Generated Invoice",
+                    "total Quantity": "",
+                    "Item": "Owner",
+                    "Class": "General",
+                    "Qty": "4",
+                    "Sales Price": "34.76",
+                    "Amount": "139.04",
+                    "Balance": "139.04",
+                    "State": "Latest"
+                }
+            ]
+        },
+        {
+            "Num": "64822",
+            "invoices": [
+                {
+                    "Type": "Invoice",
+                    "Date": "08/22/2024",
+                    "Num": "64822",
+                    "Memo": "Generated Invoice",
+                    "total Quantity": "",
+                    "Item": "We",
+                    "Class": "General",
+                    "Qty": "1",
+                    "Sales Price": "45.82",
+                    "Amount": "45.82",
+                    "Balance": "45.82",
+                    "State": "Latest"
+                }
+            ]
+        },
+        {
+            "Num": "89252",
+            "invoices": [
+                {
+                    "Type": "Invoice",
+                    "Date": "03/07/2023",
+                    "Num": "89252",
+                    "Memo": "Generated Invoice",
+                    "total Quantity": "",
+                    "Item": "Picture",
+                    "Class": "General",
+                    "Qty": "5",
+                    "Sales Price": "45.01",
+                    "Amount": "225.05",
+                    "Balance": "225.05",
+                    "State": "Latest"
+                }
+            ]
+        }
+    ]
+}

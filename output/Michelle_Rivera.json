@@ -1,0 +1,83 @@
+{
+    "customer": "Michelle Rivera",
+    "Source Name": "Michelle Rivera",
+    "Name Address": "362 Samantha Path, Dorothyport, TX 03235",
+    "Name Street1": "362 Samantha Path",
+    "Name Street2": "",
+    "Name City": "Dorothyport",
+    "Name State": "TX",
+    "Name Zip": "03235",
+    "Name Contact": "",
+    "Name Phone #": "(908)081-4645x777",
+    "Name Fax #": "",
+    "Name E-Mail": "tcooper@allen-keller.com",
+    "Name": "Michelle Rivera",
+    "Ship To Address 1": "",
+    "Ship To Address 2": "",
+    "Ship To State": "",
+    "Ship Zip": "",
+    "Notes": "",
+    "Last Name": "Rivera",
+    "First Name": "Michelle",
+    "Customer Class": "General",
+    "total_sales": "0.00",
+    "purchases": [
+        {
+            "Num": "24857",
+            "invoices": [
+                {
+                    "Type": "Invoice",
+                    "Date": "01/11/2019",
+                    "Num": "24857",
+                    "Memo": "Generated Invoice",
+                    "total Quantity": "",
+                    "Item": "Hold",
+                    "Class": "General",
+                    "Qty": "4",
+                    "Sales Price": "32.54",
+                    "Amount": "130.16",
+                    "Balance": "130.16",
+                    "State": "Latest"
+                }
+            ]
+        },
+        {
+            "Num": "61775",
+            "invoices": [
+                {
+                    "Type": "Invoice",
+                    "Date": "01/28/2022",
+                    "Num": "61775",
+                    "Memo": "Generated Invoice",
+                    "total Quantity": "",
+                    "Item": "Huge",
+                    "Class": "General",
+                    "Qty": "4",
+                    "Sales Price": "45.38",
+                    "Amount": "181.52",
+                    "Balance": "181.52",
+                    "State": "Latest"
+                }
+            ]
+        },
+        {
+            "Num": "43699",
+            "invoices": [
+                {
+                    "Type": "Invoice",
+                    "Date": "04/23/2016",
+                    "Num": "43699",
+                    "Memo": "Generated Invoice",
+                    "total Quantity": "",
+                    "Item": "Although",
+                    "Class": "General",
+                    "Qty": "3",
+                    "Sales Price": "11.08",
+                    "Amount": "33.24",
+                    "Balance": "33.24",
+                    "State": "Latest"
+                }
+            ]
+        }
+    ]
+}

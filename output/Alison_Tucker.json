@@ -1,0 +1,83 @@
+{
+    "customer": "Alison Tucker",
+    "Source Name": "Alison Tucker",
+    "Name Address": "02944 Andrew Crossroad, Lewiston, MT 68247",
+    "Name Street1": "02944 Andrew Crossroad",
+    "Name Street2": "",
+    "Name City": "Lewiston",
+    "Name State": "MT",
+    "Name Zip": "68247",
+    "Name Contact": "",
+    "Name Phone #": "868.014.1901x80900",
+    "Name Fax #": "",
+    "Name E-Mail": "mabbott@brady-johnson.info",
+    "Name": "Alison Tucker",
+    "Ship To Address 1": "",
+    "Ship To Address 2": "",
+    "Ship To State": "",
+    "Ship Zip": "",
+    "Notes": "",
+    "Last Name": "Tucker",
+    "First Name": "Alison",
+    "Customer Class": "General",
+    "total_sales": "0.00",
+    "purchases": [
+        {
+            "Num": "52698",
+            "invoices": [
+                {
+                    "Type": "Invoice",
+                    "Date": "11/05/2018",
+                    "Num": "52698",
+                    "Memo": "Generated Invoice",
+                    "total Quantity": "",
+                    "Item": "My",
+                    "Class": "General",
+                    "Qty": "5",
+                    "Sales Price": "42.73",
+                    "Amount": "213.65",
+                    "Balance": "213.65",
+                    "State": "Latest"
+                }
+            ]
+        },
+        {
+            "Num": "62963",
+            "invoices": [
+                {
+                    "Type": "Invoice",
+                    "Date": "01/07/2023",
+                    "Num": "62963",
+                    "Memo": "Generated Invoice",
+                    "total Quantity": "",
+                    "Item": "Establish",
+                    "Class": "General",
+                    "Qty": "2",
+                    "Sales Price": "13.87",
+                    "Amount": "27.74",
+                    "Balance": "27.74",
+                    "State": "Latest"
+                }
+            ]
+        },
+        {
+            "Num": "50899",
+            "invoices": [
+                {
+                    "Type": "Invoice",
+                    "Date": "12/22/2024",
+                    "Num": "50899",
+                    "Memo": "Generated Invoice",
+                    "total Quantity": "",
+                    "Item": "Second",
+                    "Class": "General",
+                    "Qty": "2",
+                    "Sales Price": "43.85",
+                    "Amount": "87.7",
+                    "Balance": "87.7",
+                    "State": "Latest"
+                }
+            ]
+        }
+    ]
+}

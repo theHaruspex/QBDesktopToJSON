@@ -1,0 +1,83 @@
+{
+    "customer": "Paula Davis",
+    "Source Name": "Paula Davis",
+    "Name Address": "313 Aaron Rapid, South Barbaraview, NJ 00710",
+    "Name Street1": "313 Aaron Rapid",
+    "Name Street2": "",
+    "Name City": "South Barbaraview",
+    "Name State": "NJ",
+    "Name Zip": "00710",
+    "Name Contact": "",
+    "Name Phone #": "+1-811-476-5942x71977",
+    "Name Fax #": "",
+    "Name E-Mail": "sharonmcgrath@hotmail.com",
+    "Name": "Paula Davis",
+    "Ship To Address 1": "",
+    "Ship To Address 2": "",
+    "Ship To State": "",
+    "Ship Zip": "",
+    "Notes": "",
+    "Last Name": "Davis",
+    "First Name": "Paula",
+    "Customer Class": "General",
+    "total_sales": "0.00",
+    "purchases": [
+        {
+            "Num": "61226",
+            "invoices": [
+                {
+                    "Type": "Invoice",
+                    "Date": "11/14/2016",
+                    "Num": "61226",
+                    "Memo": "Generated Invoice",
+                    "total Quantity": "",
+                    "Item": "Then",
+                    "Class": "General",
+                    "Qty": "1",
+                    "Sales Price": "24.26",
+                    "Amount": "24.26",
+                    "Balance": "24.26",
+                    "State": "Latest"
+                }
+            ]
+        },
+        {
+            "Num": "10578",
+            "invoices": [
+                {
+                    "Type": "Invoice",
+                    "Date": "03/31/2022",
+                    "Num": "10578",
+                    "Memo": "Generated Invoice",
+                    "total Quantity": "",
+                    "Item": "Crime",
+                    "Class": "General",
+                    "Qty": "1",
+                    "Sales Price": "25.3",
+                    "Amount": "25.3",
+                    "Balance": "25.3",
+                    "State": "Latest"
+                }
+            ]
+        },
+        {
+            "Num": "41676",
+            "invoices": [
+                {
+                    "Type": "Invoice",
+                    "Date": "03/12/2021",
+                    "Num": "41676",
+                    "Memo": "Generated Invoice",
+                    "total Quantity": "",
+                    "Item": "Reduce",
+                    "Class": "General",
+                    "Qty": "3",
+                    "Sales Price": "12.06",
+                    "Amount": "36.18",
+                    "Balance": "36.18",
+                    "State": "Latest"
+                }
+            ]
+        }
+    ]
+}

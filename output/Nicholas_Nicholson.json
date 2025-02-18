@@ -1,0 +1,83 @@
+{
+    "customer": "Nicholas Nicholson",
+    "Source Name": "Nicholas Nicholson",
+    "Name Address": "0373 Kevin Summit Suite 161, West Andrewmouth, RI 52147",
+    "Name Street1": "0373 Kevin Summit Suite 161",
+    "Name Street2": "",
+    "Name City": "West Andrewmouth",
+    "Name State": "RI",
+    "Name Zip": "52147",
+    "Name Contact": "",
+    "Name Phone #": "+1-696-873-8989x449",
+    "Name Fax #": "",
+    "Name E-Mail": "john84@gmail.com",
+    "Name": "Nicholas Nicholson",
+    "Ship To Address 1": "",
+    "Ship To Address 2": "",
+    "Ship To State": "",
+    "Ship Zip": "",
+    "Notes": "",
+    "Last Name": "Nicholson",
+    "First Name": "Nicholas",
+    "Customer Class": "General",
+    "total_sales": "0.00",
+    "purchases": [
+        {
+            "Num": "33181",
+            "invoices": [
+                {
+                    "Type": "Invoice",
+                    "Date": "12/08/2020",
+                    "Num": "33181",
+                    "Memo": "Generated Invoice",
+                    "total Quantity": "",
+                    "Item": "Certain",
+                    "Class": "General",
+                    "Qty": "1",
+                    "Sales Price": "11.8",
+                    "Amount": "11.8",
+                    "Balance": "11.8",
+                    "State": "Latest"
+                }
+            ]
+        },
+        {
+            "Num": "20090",
+            "invoices": [
+                {
+                    "Type": "Invoice",
+                    "Date": "12/31/2023",
+                    "Num": "20090",
+                    "Memo": "Generated Invoice",
+                    "total Quantity": "",
+                    "Item": "Economy",
+                    "Class": "General",
+                    "Qty": "2",
+                    "Sales Price": "44.39",
+                    "Amount": "88.78",
+                    "Balance": "88.78",
+                    "State": "Latest"
+                }
+            ]
+        },
+        {
+            "Num": "94219",
+            "invoices": [
+                {
+                    "Type": "Invoice",
+                    "Date": "06/15/2015",
+                    "Num": "94219",
+                    "Memo": "Generated Invoice",
+                    "total Quantity": "",
+                    "Item": "Research",
+                    "Class": "General",
+                    "Qty": "3",
+                    "Sales Price": "44.81",
+                    "Amount": "134.43",
+                    "Balance": "134.43",
+                    "State": "Latest"
+                }
+            ]
+        }
+    ]
+}

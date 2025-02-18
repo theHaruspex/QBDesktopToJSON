@@ -1,0 +1,83 @@
+{
+    "customer": "Wesley Russell",
+    "Source Name": "Wesley Russell",
+    "Name Address": "93178 Gregory Gateway Apt. 916, East Barbarafurt, MI 82301",
+    "Name Street1": "93178 Gregory Gateway Apt. 916",
+    "Name Street2": "",
+    "Name City": "East Barbarafurt",
+    "Name State": "MI",
+    "Name Zip": "82301",
+    "Name Contact": "",
+    "Name Phone #": "001-657-236-8658x33893",
+    "Name Fax #": "",
+    "Name E-Mail": "lross@chavez-church.com",
+    "Name": "Wesley Russell",
+    "Ship To Address 1": "",
+    "Ship To Address 2": "",
+    "Ship To State": "",
+    "Ship Zip": "",
+    "Notes": "",
+    "Last Name": "Russell",
+    "First Name": "Wesley",
+    "Customer Class": "General",
+    "total_sales": "0.00",
+    "purchases": [
+        {
+            "Num": "81665",
+            "invoices": [
+                {
+                    "Type": "Invoice",
+                    "Date": "11/24/2022",
+                    "Num": "81665",
+                    "Memo": "Generated Invoice",
+                    "total Quantity": "",
+                    "Item": "News",
+                    "Class": "General",
+                    "Qty": "2",
+                    "Sales Price": "39.95",
+                    "Amount": "79.9",
+                    "Balance": "79.9",
+                    "State": "Latest"
+                }
+            ]
+        },
+        {
+            "Num": "79704",
+            "invoices": [
+                {
+                    "Type": "Invoice",
+                    "Date": "12/24/2015",
+                    "Num": "79704",
+                    "Memo": "Generated Invoice",
+                    "total Quantity": "",
+                    "Item": "Respond",
+                    "Class": "General",
+                    "Qty": "1",
+                    "Sales Price": "7.62",
+                    "Amount": "7.62",
+                    "Balance": "7.62",
+                    "State": "Latest"
+                }
+            ]
+        },
+        {
+            "Num": "10399",
+            "invoices": [
+                {
+                    "Type": "Invoice",
+                    "Date": "03/25/2023",
+                    "Num": "10399",
+                    "Memo": "Generated Invoice",
+                    "total Quantity": "",
+                    "Item": "Find",
+                    "Class": "General",
+                    "Qty": "3",
+                    "Sales Price": "10.56",
+                    "Amount": "31.68",
+                    "Balance": "31.68",
+                    "State": "Latest"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "customer": "Robert Paul",
+    "Source Name": "Robert Paul",
+    "Name Address": "50128 Peter Stravenue, West Tarashire, KY 12234",
+    "Name Street1": "50128 Peter Stravenue",
+    "Name Street2": "",
+    "Name City": "West Tarashire",
+    "Name State": "KY",
+    "Name Zip": "12234",
+    "Name Contact": "",
+    "Name Phone #": "(757)821-0457x5133",
+    "Name Fax #": "",
+    "Name E-Mail": "samuel01@wright-ferrell.com",
+    "Name": "Robert Paul",
+    "Ship To Address 1": "",
+    "Ship To Address 2": "",
+    "Ship To State": "",
+    "Ship Zip": "",
+    "Notes": "",
+    "Last Name": "Paul",
+    "First Name": "Robert",
+    "Customer Class": "General",
+    "total_sales": "0.00",
+    "purchases": [
+        {
+            "Num": "73759",
+            "invoices": [
+                {
+                    "Type": "Invoice",
+                    "Date": "10/15/2021",
+                    "Num": "73759",
+                    "Memo": "Generated Invoice",
+                    "total Quantity": "",
+                    "Item": "Instead",
+                    "Class": "General",
+                    "Qty": "5",
+                    "Sales Price": "21.47",
+                    "Amount": "107.35",
+                    "Balance": "107.35",
+                    "State": "Latest"
+                }
+            ]
+        },
+        {
+            "Num": "78376",
+            "invoices": [
+                {
+                    "Type": "Invoice",
+                    "Date": "05/13/2019",
+                    "Num": "78376",
+                    "Memo": "Generated Invoice",
+                    "total Quantity": "",
+                    "Item": "Listen",
+                    "Class": "General",
+                    "Qty": "1",
+                    "Sales Price": "32.31",
+                    "Amount": "32.31",
+                    "Balance": "32.31",
+                    "State": "Latest"
+                }
+            ]
+        },
+        {
+            "Num": "81732",
+            "invoices": [
+                {
+                    "Type": "Invoice",
+                    "Date": "01/15/2023",
+                    "Num": "81732",
+                    "Memo": "Generated Invoice",
+                    "total Quantity": "",
+                    "Item": "Base",
+                    "Class": "General",
+                    "Qty": "1",
+                    "Sales Price": "27.19",
+                    "Amount": "27.19",
+                    "Balance": "27.19",
+                    "State": "Latest"
+                }
+            ]
+        }
+    ]
+}

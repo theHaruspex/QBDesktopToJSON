@@ -1,0 +1,83 @@
+{
+    "customer": "Christopher Hall",
+    "Source Name": "Christopher Hall",
+    "Name Address": "3611 Ricardo Trail, Johnnychester, HI 91350",
+    "Name Street1": "3611 Ricardo Trail",
+    "Name Street2": "",
+    "Name City": "Johnnychester",
+    "Name State": "HI",
+    "Name Zip": "91350",
+    "Name Contact": "",
+    "Name Phone #": "(408)399-1409x404",
+    "Name Fax #": "",
+    "Name E-Mail": "dgonzalez@gmail.com",
+    "Name": "Christopher Hall",
+    "Ship To Address 1": "",
+    "Ship To Address 2": "",
+    "Ship To State": "",
+    "Ship Zip": "",
+    "Notes": "",
+    "Last Name": "Hall",
+    "First Name": "Christopher",
+    "Customer Class": "General",
+    "total_sales": "0.00",
+    "purchases": [
+        {
+            "Num": "32943",
+            "invoices": [
+                {
+                    "Type": "Invoice",
+                    "Date": "04/02/2020",
+                    "Num": "32943",
+                    "Memo": "Generated Invoice",
+                    "total Quantity": "",
+                    "Item": "Pm",
+                    "Class": "General",
+                    "Qty": "3",
+                    "Sales Price": "48.54",
+                    "Amount": "145.62",
+                    "Balance": "145.62",
+                    "State": "Latest"
+                }
+            ]
+        },
+        {
+            "Num": "75919",
+            "invoices": [
+                {
+                    "Type": "Invoice",
+                    "Date": "02/12/2021",
+                    "Num": "75919",
+                    "Memo": "Generated Invoice",
+                    "total Quantity": "",
+                    "Item": "Leg",
+                    "Class": "General",
+                    "Qty": "5",
+                    "Sales Price": "40.93",
+                    "Amount": "204.65",
+                    "Balance": "204.65",
+                    "State": "Latest"
+                }
+            ]
+        },
+        {
+            "Num": "67040",
+            "invoices": [
+                {
+                    "Type": "Invoice",
+                    "Date": "11/26/2021",
+                    "Num": "67040",
+                    "Memo": "Generated Invoice",
+                    "total Quantity": "",
+                    "Item": "Doctor",
+                    "Class": "General",
+                    "Qty": "2",
+                    "Sales Price": "5.05",
+                    "Amount": "10.1",
+                    "Balance": "10.1",
+                    "State": "Latest"
+                }
+            ]
+        }
+    ]
+}

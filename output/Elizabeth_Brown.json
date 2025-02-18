@@ -1,0 +1,83 @@
+{
+    "customer": "Elizabeth Brown",
+    "Source Name": "Elizabeth Brown",
+    "Name Address": "40627 Robert Locks Suite 377, Wilsonton, ID 49893",
+    "Name Street1": "40627 Robert Locks Suite 377",
+    "Name Street2": "",
+    "Name City": "Wilsonton",
+    "Name State": "ID",
+    "Name Zip": "49893",
+    "Name Contact": "",
+    "Name Phone #": "538-743-4561",
+    "Name Fax #": "",
+    "Name E-Mail": "bauerbrandon@cox.net",
+    "Name": "Elizabeth Brown",
+    "Ship To Address 1": "",
+    "Ship To Address 2": "",
+    "Ship To State": "",
+    "Ship Zip": "",
+    "Notes": "",
+    "Last Name": "Brown",
+    "First Name": "Elizabeth",
+    "Customer Class": "General",
+    "total_sales": "0.00",
+    "purchases": [
+        {
+            "Num": "60934",
+            "invoices": [
+                {
+                    "Type": "Invoice",
+                    "Date": "09/19/2024",
+                    "Num": "60934",
+                    "Memo": "Generated Invoice",
+                    "total Quantity": "",
+                    "Item": "Soldier",
+                    "Class": "General",
+                    "Qty": "5",
+                    "Sales Price": "5.46",
+                    "Amount": "27.3",
+                    "Balance": "27.3",
+                    "State": "Latest"
+                }
+            ]
+        },
+        {
+            "Num": "79046",
+            "invoices": [
+                {
+                    "Type": "Invoice",
+                    "Date": "12/09/2020",
+                    "Num": "79046",
+                    "Memo": "Generated Invoice",
+                    "total Quantity": "",
+                    "Item": "Include",
+                    "Class": "General",
+                    "Qty": "2",
+                    "Sales Price": "13.18",
+                    "Amount": "26.36",
+                    "Balance": "26.36",
+                    "State": "Latest"
+                }
+            ]
+        },
+        {
+            "Num": "38323",
+            "invoices": [
+                {
+                    "Type": "Invoice",
+                    "Date": "07/14/2021",
+                    "Num": "38323",
+                    "Memo": "Generated Invoice",
+                    "total Quantity": "",
+                    "Item": "Only",
+                    "Class": "General",
+                    "Qty": "3",
+                    "Sales Price": "48.81",
+                    "Amount": "146.43",
+                    "Balance": "146.43",
+                    "State": "Latest"
+                }
+            ]
+        }
+    ]
+}

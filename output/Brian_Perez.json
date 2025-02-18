@@ -1,0 +1,83 @@
+{
+    "customer": "Brian Perez",
+    "Source Name": "Brian Perez",
+    "Name Address": "874 Gregory Stravenue, North Samantha, MA 03254",
+    "Name Street1": "874 Gregory Stravenue",
+    "Name Street2": "",
+    "Name City": "North Samantha",
+    "Name State": "MA",
+    "Name Zip": "03254",
+    "Name Contact": "",
+    "Name Phone #": "+1-869-835-5372x872",
+    "Name Fax #": "",
+    "Name E-Mail": "georgeaaron@gmail.com",
+    "Name": "Brian Perez",
+    "Ship To Address 1": "",
+    "Ship To Address 2": "",
+    "Ship To State": "",
+    "Ship Zip": "",
+    "Notes": "",
+    "Last Name": "Perez",
+    "First Name": "Brian",
+    "Customer Class": "General",
+    "total_sales": "0.00",
+    "purchases": [
+        {
+            "Num": "31666",
+            "invoices": [
+                {
+                    "Type": "Invoice",
+                    "Date": "12/01/2019",
+                    "Num": "31666",
+                    "Memo": "Generated Invoice",
+                    "total Quantity": "",
+                    "Item": "Small",
+                    "Class": "General",
+                    "Qty": "1",
+                    "Sales Price": "35.18",
+                    "Amount": "35.18",
+                    "Balance": "35.18",
+                    "State": "Latest"
+                }
+            ]
+        },
+        {
+            "Num": "82225",
+            "invoices": [
+                {
+                    "Type": "Invoice",
+                    "Date": "01/20/2016",
+                    "Num": "82225",
+                    "Memo": "Generated Invoice",
+                    "total Quantity": "",
+                    "Item": "Address",
+                    "Class": "General",
+                    "Qty": "1",
+                    "Sales Price": "43.4",
+                    "Amount": "43.4",
+                    "Balance": "43.4",
+                    "State": "Latest"
+                }
+            ]
+        },
+        {
+            "Num": "10266",
+            "invoices": [
+                {
+                    "Type": "Invoice",
+                    "Date": "05/14/2017",
+                    "Num": "10266",
+                    "Memo": "Generated Invoice",
+                    "total Quantity": "",
+                    "Item": "Nearly",
+                    "Class": "General",
+                    "Qty": "4",
+                    "Sales Price": "41.41",
+                    "Amount": "165.64",
+                    "Balance": "165.64",
+                    "State": "Latest"
+                }
+            ]
+        }
+    ]
+}

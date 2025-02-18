@@ -1,0 +1,83 @@
+{
+    "customer": "Brenda Salazar",
+    "Source Name": "Brenda Salazar",
+    "Name Address": "925 Reynolds Place Suite 450, Michaelport, WI 99542",
+    "Name Street1": "925 Reynolds Place Suite 450",
+    "Name Street2": "",
+    "Name City": "Michaelport",
+    "Name State": "WI",
+    "Name Zip": "99542",
+    "Name Contact": "",
+    "Name Phone #": "(883)237-7751x284",
+    "Name Fax #": "",
+    "Name E-Mail": "logan55@yahoo.com",
+    "Name": "Brenda Salazar",
+    "Ship To Address 1": "",
+    "Ship To Address 2": "",
+    "Ship To State": "",
+    "Ship Zip": "",
+    "Notes": "",
+    "Last Name": "Salazar",
+    "First Name": "Brenda",
+    "Customer Class": "General",
+    "total_sales": "0.00",
+    "purchases": [
+        {
+            "Num": "17458",
+            "invoices": [
+                {
+                    "Type": "Invoice",
+                    "Date": "09/14/2024",
+                    "Num": "17458",
+                    "Memo": "Generated Invoice",
+                    "total Quantity": "",
+                    "Item": "Way",
+                    "Class": "General",
+                    "Qty": "1",
+                    "Sales Price": "26.37",
+                    "Amount": "26.37",
+                    "Balance": "26.37",
+                    "State": "Latest"
+                }
+            ]
+        },
+        {
+            "Num": "43948",
+            "invoices": [
+                {
+                    "Type": "Invoice",
+                    "Date": "06/17/2019",
+                    "Num": "43948",
+                    "Memo": "Generated Invoice",
+                    "total Quantity": "",
+                    "Item": "East",
+                    "Class": "General",
+                    "Qty": "4",
+                    "Sales Price": "8.88",
+                    "Amount": "35.52",
+                    "Balance": "35.52",
+                    "State": "Latest"
+                }
+            ]
+        },
+        {
+            "Num": "30373",
+            "invoices": [
+                {
+                    "Type": "Invoice",
+                    "Date": "04/08/2023",
+                    "Num": "30373",
+                    "Memo": "Generated Invoice",
+                    "total Quantity": "",
+                    "Item": "Right",
+                    "Class": "General",
+                    "Qty": "2",
+                    "Sales Price": "11.36",
+                    "Amount": "22.72",
+                    "Balance": "22.72",
+                    "State": "Latest"
+                }
+            ]
+        }
+    ]
+}

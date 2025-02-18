@@ -1,0 +1,83 @@
+{
+    "customer": "Tracey Osborne",
+    "Source Name": "Tracey Osborne",
+    "Name Address": "8424 Stephanie Mews Suite 100, South Wayneshire, NM 84943",
+    "Name Street1": "8424 Stephanie Mews Suite 100",
+    "Name Street2": "",
+    "Name City": "South Wayneshire",
+    "Name State": "NM",
+    "Name Zip": "84943",
+    "Name Contact": "",
+    "Name Phone #": "964.440.8199",
+    "Name Fax #": "",
+    "Name E-Mail": "keith67@gmail.com",
+    "Name": "Tracey Osborne",
+    "Ship To Address 1": "",
+    "Ship To Address 2": "",
+    "Ship To State": "",
+    "Ship Zip": "",
+    "Notes": "",
+    "Last Name": "Osborne",
+    "First Name": "Tracey",
+    "Customer Class": "General",
+    "total_sales": "0.00",
+    "purchases": [
+        {
+            "Num": "71366",
+            "invoices": [
+                {
+                    "Type": "Invoice",
+                    "Date": "12/05/2015",
+                    "Num": "71366",
+                    "Memo": "Generated Invoice",
+                    "total Quantity": "",
+                    "Item": "Reveal",
+                    "Class": "General",
+                    "Qty": "1",
+                    "Sales Price": "30.62",
+                    "Amount": "30.62",
+                    "Balance": "30.62",
+                    "State": "Latest"
+                }
+            ]
+        },
+        {
+            "Num": "27946",
+            "invoices": [
+                {
+                    "Type": "Invoice",
+                    "Date": "04/30/2024",
+                    "Num": "27946",
+                    "Memo": "Generated Invoice",
+                    "total Quantity": "",
+                    "Item": "Suddenly",
+                    "Class": "General",
+                    "Qty": "4",
+                    "Sales Price": "17.57",
+                    "Amount": "70.28",
+                    "Balance": "70.28",
+                    "State": "Latest"
+                }
+            ]
+        },
+        {
+            "Num": "55955",
+            "invoices": [
+                {
+                    "Type": "Invoice",
+                    "Date": "04/03/2017",
+                    "Num": "55955",
+                    "Memo": "Generated Invoice",
+                    "total Quantity": "",
+                    "Item": "Wish",
+                    "Class": "General",
+                    "Qty": "4",
+                    "Sales Price": "44.79",
+                    "Amount": "179.16",
+                    "Balance": "179.16",
+                    "State": "Latest"
+                }
+            ]
+        }
+    ]
+}

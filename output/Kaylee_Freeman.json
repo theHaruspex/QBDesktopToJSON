@@ -1,0 +1,83 @@
+{
+    "customer": "Kaylee Freeman",
+    "Source Name": "Kaylee Freeman",
+    "Name Address": "9869 Rodriguez Pines Suite 590, East Troyview, TN 84968",
+    "Name Street1": "9869 Rodriguez Pines Suite 590",
+    "Name Street2": "",
+    "Name City": "East Troyview",
+    "Name State": "TN",
+    "Name Zip": "84968",
+    "Name Contact": "",
+    "Name Phone #": "001-259-120-7013x488",
+    "Name Fax #": "",
+    "Name E-Mail": "barryjeffery@gmail.com",
+    "Name": "Kaylee Freeman",
+    "Ship To Address 1": "",
+    "Ship To Address 2": "",
+    "Ship To State": "",
+    "Ship Zip": "",
+    "Notes": "",
+    "Last Name": "Freeman",
+    "First Name": "Kaylee",
+    "Customer Class": "General",
+    "total_sales": "0.00",
+    "purchases": [
+        {
+            "Num": "68846",
+            "invoices": [
+                {
+                    "Type": "Invoice",
+                    "Date": "04/20/2021",
+                    "Num": "68846",
+                    "Memo": "Generated Invoice",
+                    "total Quantity": "",
+                    "Item": "So",
+                    "Class": "General",
+                    "Qty": "1",
+                    "Sales Price": "26.08",
+                    "Amount": "26.08",
+                    "Balance": "26.08",
+                    "State": "Latest"
+                }
+            ]
+        },
+        {
+            "Num": "28557",
+            "invoices": [
+                {
+                    "Type": "Invoice",
+                    "Date": "11/04/2021",
+                    "Num": "28557",
+                    "Memo": "Generated Invoice",
+                    "total Quantity": "",
+                    "Item": "Only",
+                    "Class": "General",
+                    "Qty": "3",
+                    "Sales Price": "11.63",
+                    "Amount": "34.89",
+                    "Balance": "34.89",
+                    "State": "Latest"
+                }
+            ]
+        },
+        {
+            "Num": "83784",
+            "invoices": [
+                {
+                    "Type": "Invoice",
+                    "Date": "12/17/2018",
+                    "Num": "83784",
+                    "Memo": "Generated Invoice",
+                    "total Quantity": "",
+                    "Item": "Personal",
+                    "Class": "General",
+                    "Qty": "1",
+                    "Sales Price": "7.54",
+                    "Amount": "7.54",
+                    "Balance": "7.54",
+                    "State": "Latest"
+                }
+            ]
+        }
+    ]
+}

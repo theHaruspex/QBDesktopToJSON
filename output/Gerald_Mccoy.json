@@ -1,0 +1,83 @@
+{
+    "customer": "Gerald Mccoy",
+    "Source Name": "Gerald Mccoy",
+    "Name Address": "3074 Ramirez Estate, South Lisachester, AK 34114",
+    "Name Street1": "3074 Ramirez Estate",
+    "Name Street2": "",
+    "Name City": "South Lisachester",
+    "Name State": "AK",
+    "Name Zip": "34114",
+    "Name Contact": "",
+    "Name Phone #": "952-547-8984",
+    "Name Fax #": "",
+    "Name E-Mail": "williamscurtis@gmail.com",
+    "Name": "Gerald Mccoy",
+    "Ship To Address 1": "",
+    "Ship To Address 2": "",
+    "Ship To State": "",
+    "Ship Zip": "",
+    "Notes": "",
+    "Last Name": "Mccoy",
+    "First Name": "Gerald",
+    "Customer Class": "General",
+    "total_sales": "0.00",
+    "purchases": [
+        {
+            "Num": "23854",
+            "invoices": [
+                {
+                    "Type": "Invoice",
+                    "Date": "04/13/2024",
+                    "Num": "23854",
+                    "Memo": "Generated Invoice",
+                    "total Quantity": "",
+                    "Item": "Community",
+                    "Class": "General",
+                    "Qty": "3",
+                    "Sales Price": "48.2",
+                    "Amount": "144.6",
+                    "Balance": "144.6",
+                    "State": "Latest"
+                }
+            ]
+        },
+        {
+            "Num": "50645",
+            "invoices": [
+                {
+                    "Type": "Invoice",
+                    "Date": "02/02/2021",
+                    "Num": "50645",
+                    "Memo": "Generated Invoice",
+                    "total Quantity": "",
+                    "Item": "Another",
+                    "Class": "General",
+                    "Qty": "1",
+                    "Sales Price": "32.56",
+                    "Amount": "32.56",
+                    "Balance": "32.56",
+                    "State": "Latest"
+                }
+            ]
+        },
+        {
+            "Num": "49339",
+            "invoices": [
+                {
+                    "Type": "Invoice",
+                    "Date": "05/17/2017",
+                    "Num": "49339",
+                    "Memo": "Generated Invoice",
+                    "total Quantity": "",
+                    "Item": "Turn",
+                    "Class": "General",
+                    "Qty": "3",
+                    "Sales Price": "26.12",
+                    "Amount": "78.36",
+                    "Balance": "78.36",
+                    "State": "Latest"
+                }
+            ]
+        }
+    ]
+}

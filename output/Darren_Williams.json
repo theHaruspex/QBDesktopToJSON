@@ -1,0 +1,83 @@
+{
+    "customer": "Darren Williams",
+    "Source Name": "Darren Williams",
+    "Name Address": "306 Payne Loop, Walkerville, MA 96070",
+    "Name Street1": "306 Payne Loop",
+    "Name Street2": "",
+    "Name City": "Walkerville",
+    "Name State": "MA",
+    "Name Zip": "96070",
+    "Name Contact": "",
+    "Name Phone #": "4147714703",
+    "Name Fax #": "",
+    "Name E-Mail": "mmooney@garcia-flores.org",
+    "Name": "Darren Williams",
+    "Ship To Address 1": "",
+    "Ship To Address 2": "",
+    "Ship To State": "",
+    "Ship Zip": "",
+    "Notes": "",
+    "Last Name": "Williams",
+    "First Name": "Darren",
+    "Customer Class": "General",
+    "total_sales": "0.00",
+    "purchases": [
+        {
+            "Num": "51579",
+            "invoices": [
+                {
+                    "Type": "Invoice",
+                    "Date": "12/02/2022",
+                    "Num": "51579",
+                    "Memo": "Generated Invoice",
+                    "total Quantity": "",
+                    "Item": "Carry",
+                    "Class": "General",
+                    "Qty": "2",
+                    "Sales Price": "12.25",
+                    "Amount": "24.5",
+                    "Balance": "24.5",
+                    "State": "Latest"
+                }
+            ]
+        },
+        {
+            "Num": "45466",
+            "invoices": [
+                {
+                    "Type": "Invoice",
+                    "Date": "07/04/2020",
+                    "Num": "45466",
+                    "Memo": "Generated Invoice",
+                    "total Quantity": "",
+                    "Item": "Side",
+                    "Class": "General",
+                    "Qty": "3",
+                    "Sales Price": "45.38",
+                    "Amount": "136.14",
+                    "Balance": "136.14",
+                    "State": "Latest"
+                }
+            ]
+        },
+        {
+            "Num": "90777",
+            "invoices": [
+                {
+                    "Type": "Invoice",
+                    "Date": "03/01/2018",
+                    "Num": "90777",
+                    "Memo": "Generated Invoice",
+                    "total Quantity": "",
+                    "Item": "Baby",
+                    "Class": "General",
+                    "Qty": "4",
+                    "Sales Price": "6.07",
+                    "Amount": "24.28",
+                    "Balance": "24.28",
+                    "State": "Latest"
+                }
+            ]
+        }
+    ]
+}

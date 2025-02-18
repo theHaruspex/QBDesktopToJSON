@@ -1,0 +1,83 @@
+{
+    "customer": "Jennifer Davis",
+    "Source Name": "Jennifer Davis",
+    "Name Address": "62738 Alison Port, South Tylerside, WA 48312",
+    "Name Street1": "62738 Alison Port",
+    "Name Street2": "",
+    "Name City": "South Tylerside",
+    "Name State": "WA",
+    "Name Zip": "48312",
+    "Name Contact": "",
+    "Name Phone #": "(931)131-2810x9640",
+    "Name Fax #": "",
+    "Name E-Mail": "patricklivingston@bryant.com",
+    "Name": "Jennifer Davis",
+    "Ship To Address 1": "",
+    "Ship To Address 2": "",
+    "Ship To State": "",
+    "Ship Zip": "",
+    "Notes": "",
+    "Last Name": "Davis",
+    "First Name": "Jennifer",
+    "Customer Class": "General",
+    "total_sales": "0.00",
+    "purchases": [
+        {
+            "Num": "60259",
+            "invoices": [
+                {
+                    "Type": "Invoice",
+                    "Date": "04/15/2021",
+                    "Num": "60259",
+                    "Memo": "Generated Invoice",
+                    "total Quantity": "",
+                    "Item": "Long",
+                    "Class": "General",
+                    "Qty": "5",
+                    "Sales Price": "39.61",
+                    "Amount": "198.05",
+                    "Balance": "198.05",
+                    "State": "Latest"
+                }
+            ]
+        },
+        {
+            "Num": "73332",
+            "invoices": [
+                {
+                    "Type": "Invoice",
+                    "Date": "11/06/2021",
+                    "Num": "73332",
+                    "Memo": "Generated Invoice",
+                    "total Quantity": "",
+                    "Item": "Wonder",
+                    "Class": "General",
+                    "Qty": "5",
+                    "Sales Price": "24.08",
+                    "Amount": "120.4",
+                    "Balance": "120.4",
+                    "State": "Latest"
+                }
+            ]
+        },
+        {
+            "Num": "66424",
+            "invoices": [
+                {
+                    "Type": "Invoice",
+                    "Date": "06/04/2023",
+                    "Num": "66424",
+                    "Memo": "Generated Invoice",
+                    "total Quantity": "",
+                    "Item": "Whether",
+                    "Class": "General",
+                    "Qty": "1",
+                    "Sales Price": "8.34",
+                    "Amount": "8.34",
+                    "Balance": "8.34",
+                    "State": "Latest"
+                }
+            ]
+        }
+    ]
+}

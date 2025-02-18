@@ -1,0 +1,83 @@
+{
+    "customer": "Matthew Gill",
+    "Source Name": "Matthew Gill",
+    "Name Address": "382 Aaron Stream Suite 769, East Carlaville, WY 40126",
+    "Name Street1": "382 Aaron Stream Suite 769",
+    "Name Street2": "",
+    "Name City": "East Carlaville",
+    "Name State": "WY",
+    "Name Zip": "40126",
+    "Name Contact": "",
+    "Name Phone #": "244-137-7367",
+    "Name Fax #": "",
+    "Name E-Mail": "waltermoore@christensen.com",
+    "Name": "Matthew Gill",
+    "Ship To Address 1": "",
+    "Ship To Address 2": "",
+    "Ship To State": "",
+    "Ship Zip": "",
+    "Notes": "",
+    "Last Name": "Gill",
+    "First Name": "Matthew",
+    "Customer Class": "General",
+    "total_sales": "0.00",
+    "purchases": [
+        {
+            "Num": "85482",
+            "invoices": [
+                {
+                    "Type": "Invoice",
+                    "Date": "09/17/2024",
+                    "Num": "85482",
+                    "Memo": "Generated Invoice",
+                    "total Quantity": "",
+                    "Item": "Less",
+                    "Class": "General",
+                    "Qty": "1",
+                    "Sales Price": "17.52",
+                    "Amount": "17.52",
+                    "Balance": "17.52",
+                    "State": "Latest"
+                }
+            ]
+        },
+        {
+            "Num": "70430",
+            "invoices": [
+                {
+                    "Type": "Invoice",
+                    "Date": "08/03/2015",
+                    "Num": "70430",
+                    "Memo": "Generated Invoice",
+                    "total Quantity": "",
+                    "Item": "Field",
+                    "Class": "General",
+                    "Qty": "2",
+                    "Sales Price": "37.09",
+                    "Amount": "74.18",
+                    "Balance": "74.18",
+                    "State": "Latest"
+                }
+            ]
+        },
+        {
+            "Num": "75817",
+            "invoices": [
+                {
+                    "Type": "Invoice",
+                    "Date": "01/21/2023",
+                    "Num": "75817",
+                    "Memo": "Generated Invoice",
+                    "total Quantity": "",
+                    "Item": "Whose",
+                    "Class": "General",
+                    "Qty": "2",
+                    "Sales Price": "21.98",
+                    "Amount": "43.96",
+                    "Balance": "43.96",
+                    "State": "Latest"
+                }
+            ]
+        }
+    ]
+}

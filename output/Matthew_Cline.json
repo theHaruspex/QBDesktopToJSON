@@ -1,0 +1,83 @@
+{
+    "customer": "Matthew Cline",
+    "Source Name": "Matthew Cline",
+    "Name Address": "939 Morgan Summit, East Jennifer, NM 05713",
+    "Name Street1": "939 Morgan Summit",
+    "Name Street2": "",
+    "Name City": "East Jennifer",
+    "Name State": "NM",
+    "Name Zip": "05713",
+    "Name Contact": "",
+    "Name Phone #": "001-797-286-2782x215",
+    "Name Fax #": "",
+    "Name E-Mail": "dunntheresa@gmail.com",
+    "Name": "Matthew Cline",
+    "Ship To Address 1": "",
+    "Ship To Address 2": "",
+    "Ship To State": "",
+    "Ship Zip": "",
+    "Notes": "",
+    "Last Name": "Cline",
+    "First Name": "Matthew",
+    "Customer Class": "General",
+    "total_sales": "0.00",
+    "purchases": [
+        {
+            "Num": "52035",
+            "invoices": [
+                {
+                    "Type": "Invoice",
+                    "Date": "02/02/2024",
+                    "Num": "52035",
+                    "Memo": "Generated Invoice",
+                    "total Quantity": "",
+                    "Item": "Street",
+                    "Class": "General",
+                    "Qty": "4",
+                    "Sales Price": "9.23",
+                    "Amount": "36.92",
+                    "Balance": "36.92",
+                    "State": "Latest"
+                }
+            ]
+        },
+        {
+            "Num": "82822",
+            "invoices": [
+                {
+                    "Type": "Invoice",
+                    "Date": "05/28/2022",
+                    "Num": "82822",
+                    "Memo": "Generated Invoice",
+                    "total Quantity": "",
+                    "Item": "Wall",
+                    "Class": "General",
+                    "Qty": "5",
+                    "Sales Price": "23.2",
+                    "Amount": "116.0",
+                    "Balance": "116.0",
+                    "State": "Latest"
+                }
+            ]
+        },
+        {
+            "Num": "27474",
+            "invoices": [
+                {
+                    "Type": "Invoice",
+                    "Date": "10/02/2019",
+                    "Num": "27474",
+                    "Memo": "Generated Invoice",
+                    "total Quantity": "",
+                    "Item": "Let",
+                    "Class": "General",
+                    "Qty": "3",
+                    "Sales Price": "13.72",
+                    "Amount": "41.16",
+                    "Balance": "41.16",
+                    "State": "Latest"
+                }
+            ]
+        }
+    ]
+}

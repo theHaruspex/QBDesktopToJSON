@@ -1,0 +1,83 @@
+{
+    "customer": "Kenneth Wyatt",
+    "Source Name": "Kenneth Wyatt",
+    "Name Address": "887 Blake Villages Suite 285, North David, FL 50848",
+    "Name Street1": "887 Blake Villages Suite 285",
+    "Name Street2": "",
+    "Name City": "North David",
+    "Name State": "FL",
+    "Name Zip": "50848",
+    "Name Contact": "",
+    "Name Phone #": "1703026074",
+    "Name Fax #": "",
+    "Name E-Mail": "quinnnorma@hall-thomas.info",
+    "Name": "Kenneth Wyatt",
+    "Ship To Address 1": "",
+    "Ship To Address 2": "",
+    "Ship To State": "",
+    "Ship Zip": "",
+    "Notes": "",
+    "Last Name": "Wyatt",
+    "First Name": "Kenneth",
+    "Customer Class": "General",
+    "total_sales": "0.00",
+    "purchases": [
+        {
+            "Num": "47044",
+            "invoices": [
+                {
+                    "Type": "Invoice",
+                    "Date": "04/23/2018",
+                    "Num": "47044",
+                    "Memo": "Generated Invoice",
+                    "total Quantity": "",
+                    "Item": "Meet",
+                    "Class": "General",
+                    "Qty": "2",
+                    "Sales Price": "17.16",
+                    "Amount": "34.32",
+                    "Balance": "34.32",
+                    "State": "Latest"
+                }
+            ]
+        },
+        {
+            "Num": "92721",
+            "invoices": [
+                {
+                    "Type": "Invoice",
+                    "Date": "12/24/2024",
+                    "Num": "92721",
+                    "Memo": "Generated Invoice",
+                    "total Quantity": "",
+                    "Item": "Career",
+                    "Class": "General",
+                    "Qty": "2",
+                    "Sales Price": "29.51",
+                    "Amount": "59.02",
+                    "Balance": "59.02",
+                    "State": "Latest"
+                }
+            ]
+        },
+        {
+            "Num": "20724",
+            "invoices": [
+                {
+                    "Type": "Invoice",
+                    "Date": "01/04/2022",
+                    "Num": "20724",
+                    "Memo": "Generated Invoice",
+                    "total Quantity": "",
+                    "Item": "Note",
+                    "Class": "General",
+                    "Qty": "1",
+                    "Sales Price": "31.84",
+                    "Amount": "31.84",
+                    "Balance": "31.84",
+                    "State": "Latest"
+                }
+            ]
+        }
+    ]
+}

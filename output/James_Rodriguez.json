@@ -1,0 +1,83 @@
+{
+    "customer": "James Rodriguez",
+    "Source Name": "James Rodriguez",
+    "Name Address": "2901 Barbara Ports, Port Jasonfort, LA 62984",
+    "Name Street1": "2901 Barbara Ports",
+    "Name Street2": "",
+    "Name City": "Port Jasonfort",
+    "Name State": "LA",
+    "Name Zip": "62984",
+    "Name Contact": "",
+    "Name Phone #": "001-988-711-0364x6549",
+    "Name Fax #": "",
+    "Name E-Mail": "donna55@yahoo.com",
+    "Name": "James Rodriguez",
+    "Ship To Address 1": "",
+    "Ship To Address 2": "",
+    "Ship To State": "",
+    "Ship Zip": "",
+    "Notes": "",
+    "Last Name": "Rodriguez",
+    "First Name": "James",
+    "Customer Class": "General",
+    "total_sales": "0.00",
+    "purchases": [
+        {
+            "Num": "80585",
+            "invoices": [
+                {
+                    "Type": "Invoice",
+                    "Date": "09/14/2019",
+                    "Num": "80585",
+                    "Memo": "Generated Invoice",
+                    "total Quantity": "",
+                    "Item": "Sort",
+                    "Class": "General",
+                    "Qty": "5",
+                    "Sales Price": "49.23",
+                    "Amount": "246.15",
+                    "Balance": "246.15",
+                    "State": "Latest"
+                }
+            ]
+        },
+        {
+            "Num": "24009",
+            "invoices": [
+                {
+                    "Type": "Invoice",
+                    "Date": "07/17/2016",
+                    "Num": "24009",
+                    "Memo": "Generated Invoice",
+                    "total Quantity": "",
+                    "Item": "Maintain",
+                    "Class": "General",
+                    "Qty": "3",
+                    "Sales Price": "16.36",
+                    "Amount": "49.08",
+                    "Balance": "49.08",
+                    "State": "Latest"
+                }
+            ]
+        },
+        {
+            "Num": "99512",
+            "invoices": [
+                {
+                    "Type": "Invoice",
+                    "Date": "02/06/2020",
+                    "Num": "99512",
+                    "Memo": "Generated Invoice",
+                    "total Quantity": "",
+                    "Item": "Floor",
+                    "Class": "General",
+                    "Qty": "5",
+                    "Sales Price": "26.13",
+                    "Amount": "130.65",
+                    "Balance": "130.65",
+                    "State": "Latest"
+                }
+            ]
+        }
+    ]
+}

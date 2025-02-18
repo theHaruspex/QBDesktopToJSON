@@ -1,0 +1,83 @@
+{
+    "customer": "Paul Fisher",
+    "Source Name": "Paul Fisher",
+    "Name Address": "61377 Daniel Fall, Charlesside, FL 35210",
+    "Name Street1": "61377 Daniel Fall",
+    "Name Street2": "",
+    "Name City": "Charlesside",
+    "Name State": "FL",
+    "Name Zip": "35210",
+    "Name Contact": "",
+    "Name Phone #": "5854179402",
+    "Name Fax #": "",
+    "Name E-Mail": "youngbrianna@wood.com",
+    "Name": "Paul Fisher",
+    "Ship To Address 1": "",
+    "Ship To Address 2": "",
+    "Ship To State": "",
+    "Ship Zip": "",
+    "Notes": "",
+    "Last Name": "Fisher",
+    "First Name": "Paul",
+    "Customer Class": "General",
+    "total_sales": "0.00",
+    "purchases": [
+        {
+            "Num": "47930",
+            "invoices": [
+                {
+                    "Type": "Invoice",
+                    "Date": "07/25/2023",
+                    "Num": "47930",
+                    "Memo": "Generated Invoice",
+                    "total Quantity": "",
+                    "Item": "Step",
+                    "Class": "General",
+                    "Qty": "4",
+                    "Sales Price": "21.14",
+                    "Amount": "84.56",
+                    "Balance": "84.56",
+                    "State": "Latest"
+                }
+            ]
+        },
+        {
+            "Num": "94109",
+            "invoices": [
+                {
+                    "Type": "Invoice",
+                    "Date": "03/14/2020",
+                    "Num": "94109",
+                    "Memo": "Generated Invoice",
+                    "total Quantity": "",
+                    "Item": "Discover",
+                    "Class": "General",
+                    "Qty": "4",
+                    "Sales Price": "41.9",
+                    "Amount": "167.6",
+                    "Balance": "167.6",
+                    "State": "Latest"
+                }
+            ]
+        },
+        {
+            "Num": "22223",
+            "invoices": [
+                {
+                    "Type": "Invoice",
+                    "Date": "01/06/2024",
+                    "Num": "22223",
+                    "Memo": "Generated Invoice",
+                    "total Quantity": "",
+                    "Item": "This",
+                    "Class": "General",
+                    "Qty": "1",
+                    "Sales Price": "47.62",
+                    "Amount": "47.62",
+                    "Balance": "47.62",
+                    "State": "Latest"
+                }
+            ]
+        }
+    ]
+}

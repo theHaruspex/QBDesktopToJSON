@@ -1,0 +1,83 @@
+{
+    "customer": "Patrick Carter",
+    "Source Name": "Patrick Carter",
+    "Name Address": "6288 Moore Wells, Lake Taylorside, KS 03244",
+    "Name Street1": "6288 Moore Wells",
+    "Name Street2": "",
+    "Name City": "Lake Taylorside",
+    "Name State": "KS",
+    "Name Zip": "03244",
+    "Name Contact": "",
+    "Name Phone #": "484.868.2470x2695",
+    "Name Fax #": "",
+    "Name E-Mail": "opatel@hotmail.com",
+    "Name": "Patrick Carter",
+    "Ship To Address 1": "",
+    "Ship To Address 2": "",
+    "Ship To State": "",
+    "Ship Zip": "",
+    "Notes": "",
+    "Last Name": "Carter",
+    "First Name": "Patrick",
+    "Customer Class": "General",
+    "total_sales": "0.00",
+    "purchases": [
+        {
+            "Num": "69235",
+            "invoices": [
+                {
+                    "Type": "Invoice",
+                    "Date": "07/02/2019",
+                    "Num": "69235",
+                    "Memo": "Generated Invoice",
+                    "total Quantity": "",
+                    "Item": "Plant",
+                    "Class": "General",
+                    "Qty": "5",
+                    "Sales Price": "23.83",
+                    "Amount": "119.15",
+                    "Balance": "119.15",
+                    "State": "Latest"
+                }
+            ]
+        },
+        {
+            "Num": "89462",
+            "invoices": [
+                {
+                    "Type": "Invoice",
+                    "Date": "09/21/2024",
+                    "Num": "89462",
+                    "Memo": "Generated Invoice",
+                    "total Quantity": "",
+                    "Item": "Risk",
+                    "Class": "General",
+                    "Qty": "2",
+                    "Sales Price": "30.89",
+                    "Amount": "61.78",
+                    "Balance": "61.78",
+                    "State": "Latest"
+                }
+            ]
+        },
+        {
+            "Num": "60789",
+            "invoices": [
+                {
+                    "Type": "Invoice",
+                    "Date": "01/17/2023",
+                    "Num": "60789",
+                    "Memo": "Generated Invoice",
+                    "total Quantity": "",
+                    "Item": "Accept",
+                    "Class": "General",
+                    "Qty": "1",
+                    "Sales Price": "11.21",
+                    "Amount": "11.21",
+                    "Balance": "11.21",
+                    "State": "Latest"
+                }
+            ]
+        }
+    ]
+}

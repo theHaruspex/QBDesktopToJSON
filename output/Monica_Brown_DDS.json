@@ -1,0 +1,83 @@
+{
+    "customer": "Monica Brown DDS",
+    "Source Name": "Monica Brown DDS",
+    "Name Address": "3258 Rich Village, Monicaton, MO 07236",
+    "Name Street1": "3258 Rich Village",
+    "Name Street2": "",
+    "Name City": "Monicaton",
+    "Name State": "MO",
+    "Name Zip": "07236",
+    "Name Contact": "",
+    "Name Phone #": "+1-737-813-8250x60164",
+    "Name Fax #": "",
+    "Name E-Mail": "christopher15@ross.com",
+    "Name": "Monica Brown DDS",
+    "Ship To Address 1": "",
+    "Ship To Address 2": "",
+    "Ship To State": "",
+    "Ship Zip": "",
+    "Notes": "",
+    "Last Name": "DDS",
+    "First Name": "Monica",
+    "Customer Class": "General",
+    "total_sales": "0.00",
+    "purchases": [
+        {
+            "Num": "92044",
+            "invoices": [
+                {
+                    "Type": "Invoice",
+                    "Date": "01/16/2022",
+                    "Num": "92044",
+                    "Memo": "Generated Invoice",
+                    "total Quantity": "",
+                    "Item": "Lawyer",
+                    "Class": "General",
+                    "Qty": "5",
+                    "Sales Price": "43.37",
+                    "Amount": "216.85",
+                    "Balance": "216.85",
+                    "State": "Latest"
+                }
+            ]
+        },
+        {
+            "Num": "36388",
+            "invoices": [
+                {
+                    "Type": "Invoice",
+                    "Date": "09/07/2017",
+                    "Num": "36388",
+                    "Memo": "Generated Invoice",
+                    "total Quantity": "",
+                    "Item": "Success",
+                    "Class": "General",
+                    "Qty": "4",
+                    "Sales Price": "13.09",
+                    "Amount": "52.36",
+                    "Balance": "52.36",
+                    "State": "Latest"
+                }
+            ]
+        },
+        {
+            "Num": "37432",
+            "invoices": [
+                {
+                    "Type": "Invoice",
+                    "Date": "05/24/2016",
+                    "Num": "37432",
+                    "Memo": "Generated Invoice",
+                    "total Quantity": "",
+                    "Item": "Room",
+                    "Class": "General",
+                    "Qty": "2",
+                    "Sales Price": "10.95",
+                    "Amount": "21.9",
+                    "Balance": "21.9",
+                    "State": "Latest"
+                }
+            ]
+        }
+    ]
+}

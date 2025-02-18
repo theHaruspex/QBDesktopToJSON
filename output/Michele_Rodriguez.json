@@ -1,0 +1,83 @@
+{
+    "customer": "Michele Rodriguez",
+    "Source Name": "Michele Rodriguez",
+    "Name Address": "449 Mitchell Roads Apt. 613, Hernandezland, IL 34579",
+    "Name Street1": "449 Mitchell Roads Apt. 613",
+    "Name Street2": "",
+    "Name City": "Hernandezland",
+    "Name State": "IL",
+    "Name Zip": "34579",
+    "Name Contact": "",
+    "Name Phone #": "001-908-313-8298x8661",
+    "Name Fax #": "",
+    "Name E-Mail": "hancockshane@douglas.com",
+    "Name": "Michele Rodriguez",
+    "Ship To Address 1": "",
+    "Ship To Address 2": "",
+    "Ship To State": "",
+    "Ship Zip": "",
+    "Notes": "",
+    "Last Name": "Rodriguez",
+    "First Name": "Michele",
+    "Customer Class": "General",
+    "total_sales": "0.00",
+    "purchases": [
+        {
+            "Num": "97707",
+            "invoices": [
+                {
+                    "Type": "Invoice",
+                    "Date": "02/01/2019",
+                    "Num": "97707",
+                    "Memo": "Generated Invoice",
+                    "total Quantity": "",
+                    "Item": "Vote",
+                    "Class": "General",
+                    "Qty": "1",
+                    "Sales Price": "11.75",
+                    "Amount": "11.75",
+                    "Balance": "11.75",
+                    "State": "Latest"
+                }
+            ]
+        },
+        {
+            "Num": "61418",
+            "invoices": [
+                {
+                    "Type": "Invoice",
+                    "Date": "09/06/2016",
+                    "Num": "61418",
+                    "Memo": "Generated Invoice",
+                    "total Quantity": "",
+                    "Item": "Everything",
+                    "Class": "General",
+                    "Qty": "2",
+                    "Sales Price": "6.81",
+                    "Amount": "13.62",
+                    "Balance": "13.62",
+                    "State": "Latest"
+                }
+            ]
+        },
+        {
+            "Num": "26706",
+            "invoices": [
+                {
+                    "Type": "Invoice",
+                    "Date": "06/02/2020",
+                    "Num": "26706",
+                    "Memo": "Generated Invoice",
+                    "total Quantity": "",
+                    "Item": "Me",
+                    "Class": "General",
+                    "Qty": "5",
+                    "Sales Price": "31.73",
+                    "Amount": "158.65",
+                    "Balance": "158.65",
+                    "State": "Latest"
+                }
+            ]
+        }
+    ]
+}

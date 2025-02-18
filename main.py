@@ -1,15 +1,11 @@
-from _archive.builder.json_sharder import JSONSharder
-from _archive.builder.database_builder import DatabaseBuilder
-
-
-
-
+from database_builder.json_sharder import JSONSharder
+from database_builder.database_builder import DatabaseBuilder
 
 
 # -------------------------------------------------------------------
 # Main Workflow Function
 # -------------------------------------------------------------------
-def main_workflow(input_dir, output_dir):
+def workflow(input_dir, output_dir):
     """
     High-level workflow function.
 
@@ -33,4 +29,4 @@ if __name__ == '__main__':
     input_directory = "raw_sales_data"  # Directory containing CSV files.
     output_directory = "output"  # Directory for sharded JSON files.
 
-    main_workflow(input_directory, output_directory)
+    workflow(input_directory, output_directory)

@@ -1,0 +1,83 @@
+{
+    "customer": "Amanda Sims",
+    "Source Name": "Amanda Sims",
+    "Name Address": "9371 Olivia Forest, Cruzview, HI 49392",
+    "Name Street1": "9371 Olivia Forest",
+    "Name Street2": "",
+    "Name City": "Cruzview",
+    "Name State": "HI",
+    "Name Zip": "49392",
+    "Name Contact": "",
+    "Name Phone #": "+1-986-578-9390x9302",
+    "Name Fax #": "",
+    "Name E-Mail": "xgilmore@gmail.com",
+    "Name": "Amanda Sims",
+    "Ship To Address 1": "",
+    "Ship To Address 2": "",
+    "Ship To State": "",
+    "Ship Zip": "",
+    "Notes": "",
+    "Last Name": "Sims",
+    "First Name": "Amanda",
+    "Customer Class": "General",
+    "total_sales": "0.00",
+    "purchases": [
+        {
+            "Num": "88550",
+            "invoices": [
+                {
+                    "Type": "Invoice",
+                    "Date": "02/18/2022",
+                    "Num": "88550",
+                    "Memo": "Generated Invoice",
+                    "total Quantity": "",
+                    "Item": "Field",
+                    "Class": "General",
+                    "Qty": "5",
+                    "Sales Price": "19.29",
+                    "Amount": "96.45",
+                    "Balance": "96.45",
+                    "State": "Latest"
+                }
+            ]
+        },
+        {
+            "Num": "45305",
+            "invoices": [
+                {
+                    "Type": "Invoice",
+                    "Date": "06/20/2023",
+                    "Num": "45305",
+                    "Memo": "Generated Invoice",
+                    "total Quantity": "",
+                    "Item": "Spend",
+                    "Class": "General",
+                    "Qty": "3",
+                    "Sales Price": "45.54",
+                    "Amount": "136.62",
+                    "Balance": "136.62",
+                    "State": "Latest"
+                }
+            ]
+        },
+        {
+            "Num": "19303",
+            "invoices": [
+                {
+                    "Type": "Invoice",
+                    "Date": "10/21/2015",
+                    "Num": "19303",
+                    "Memo": "Generated Invoice",
+                    "total Quantity": "",
+                    "Item": "Explain",
+                    "Class": "General",
+                    "Qty": "1",
+                    "Sales Price": "15.33",
+                    "Amount": "15.33",
+                    "Balance": "15.33",
+                    "State": "Latest"
+                }
+            ]
+        }
+    ]
+}

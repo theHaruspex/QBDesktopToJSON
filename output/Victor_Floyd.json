@@ -1,0 +1,83 @@
+{
+    "customer": "Victor Floyd",
+    "Source Name": "Victor Floyd",
+    "Name Address": "0147 Ann Via, West Kyle, AZ 82133",
+    "Name Street1": "0147 Ann Via",
+    "Name Street2": "",
+    "Name City": "West Kyle",
+    "Name State": "AZ",
+    "Name Zip": "82133",
+    "Name Contact": "",
+    "Name Phone #": "+1-422-818-0618x94506",
+    "Name Fax #": "",
+    "Name E-Mail": "brandysims@melendez.org",
+    "Name": "Victor Floyd",
+    "Ship To Address 1": "",
+    "Ship To Address 2": "",
+    "Ship To State": "",
+    "Ship Zip": "",
+    "Notes": "",
+    "Last Name": "Floyd",
+    "First Name": "Victor",
+    "Customer Class": "General",
+    "total_sales": "0.00",
+    "purchases": [
+        {
+            "Num": "57972",
+            "invoices": [
+                {
+                    "Type": "Invoice",
+                    "Date": "09/13/2021",
+                    "Num": "57972",
+                    "Memo": "Generated Invoice",
+                    "total Quantity": "",
+                    "Item": "Believe",
+                    "Class": "General",
+                    "Qty": "3",
+                    "Sales Price": "18.14",
+                    "Amount": "54.42",
+                    "Balance": "54.42",
+                    "State": "Latest"
+                }
+            ]
+        },
+        {
+            "Num": "74980",
+            "invoices": [
+                {
+                    "Type": "Invoice",
+                    "Date": "05/23/2023",
+                    "Num": "74980",
+                    "Memo": "Generated Invoice",
+                    "total Quantity": "",
+                    "Item": "Student",
+                    "Class": "General",
+                    "Qty": "4",
+                    "Sales Price": "31.64",
+                    "Amount": "126.56",
+                    "Balance": "126.56",
+                    "State": "Latest"
+                }
+            ]
+        },
+        {
+            "Num": "69002",
+            "invoices": [
+                {
+                    "Type": "Invoice",
+                    "Date": "12/28/2020",
+                    "Num": "69002",
+                    "Memo": "Generated Invoice",
+                    "total Quantity": "",
+                    "Item": "Admit",
+                    "Class": "General",
+                    "Qty": "2",
+                    "Sales Price": "31.04",
+                    "Amount": "62.08",
+                    "Balance": "62.08",
+                    "State": "Latest"
+                }
+            ]
+        }
+    ]
+}

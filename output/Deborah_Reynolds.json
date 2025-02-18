@@ -1,0 +1,83 @@
+{
+    "customer": "Deborah Reynolds",
+    "Source Name": "Deborah Reynolds",
+    "Name Address": "37861 Lane Isle, Travishaven, MO 66852",
+    "Name Street1": "37861 Lane Isle",
+    "Name Street2": "",
+    "Name City": "Travishaven",
+    "Name State": "MO",
+    "Name Zip": "66852",
+    "Name Contact": "",
+    "Name Phone #": "+1-348-327-1487",
+    "Name Fax #": "",
+    "Name E-Mail": "mark70@rivera.com",
+    "Name": "Deborah Reynolds",
+    "Ship To Address 1": "",
+    "Ship To Address 2": "",
+    "Ship To State": "",
+    "Ship Zip": "",
+    "Notes": "",
+    "Last Name": "Reynolds",
+    "First Name": "Deborah",
+    "Customer Class": "General",
+    "total_sales": "0.00",
+    "purchases": [
+        {
+            "Num": "92545",
+            "invoices": [
+                {
+                    "Type": "Invoice",
+                    "Date": "06/19/2018",
+                    "Num": "92545",
+                    "Memo": "Generated Invoice",
+                    "total Quantity": "",
+                    "Item": "Local",
+                    "Class": "General",
+                    "Qty": "4",
+                    "Sales Price": "48.37",
+                    "Amount": "193.48",
+                    "Balance": "193.48",
+                    "State": "Latest"
+                }
+            ]
+        },
+        {
+            "Num": "69262",
+            "invoices": [
+                {
+                    "Type": "Invoice",
+                    "Date": "08/22/2016",
+                    "Num": "69262",
+                    "Memo": "Generated Invoice",
+                    "total Quantity": "",
+                    "Item": "Red",
+                    "Class": "General",
+                    "Qty": "1",
+                    "Sales Price": "32.53",
+                    "Amount": "32.53",
+                    "Balance": "32.53",
+                    "State": "Latest"
+                }
+            ]
+        },
+        {
+            "Num": "74226",
+            "invoices": [
+                {
+                    "Type": "Invoice",
+                    "Date": "01/13/2018",
+                    "Num": "74226",
+                    "Memo": "Generated Invoice",
+                    "total Quantity": "",
+                    "Item": "Left",
+                    "Class": "General",
+                    "Qty": "2",
+                    "Sales Price": "41.13",
+                    "Amount": "82.26",
+                    "Balance": "82.26",
+                    "State": "Latest"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "customer": "Alexander Evans",
+    "Source Name": "Alexander Evans",
+    "Name Address": "525 Samuel Canyon, Davidchester, MT 82391",
+    "Name Street1": "525 Samuel Canyon",
+    "Name Street2": "",
+    "Name City": "Davidchester",
+    "Name State": "MT",
+    "Name Zip": "82391",
+    "Name Contact": "",
+    "Name Phone #": "001-779-592-2299",
+    "Name Fax #": "",
+    "Name E-Mail": "canturobert@erickson.com",
+    "Name": "Alexander Evans",
+    "Ship To Address 1": "",
+    "Ship To Address 2": "",
+    "Ship To State": "",
+    "Ship Zip": "",
+    "Notes": "",
+    "Last Name": "Evans",
+    "First Name": "Alexander",
+    "Customer Class": "General",
+    "total_sales": "0.00",
+    "purchases": [
+        {
+            "Num": "61542",
+            "invoices": [
+                {
+                    "Type": "Invoice",
+                    "Date": "10/10/2015",
+                    "Num": "61542",
+                    "Memo": "Generated Invoice",
+                    "total Quantity": "",
+                    "Item": "Class",
+                    "Class": "General",
+                    "Qty": "5",
+                    "Sales Price": "28.63",
+                    "Amount": "143.15",
+                    "Balance": "143.15",
+                    "State": "Latest"
+                }
+            ]
+        },
+        {
+            "Num": "56309",
+            "invoices": [
+                {
+                    "Type": "Invoice",
+                    "Date": "11/14/2015",
+                    "Num": "56309",
+                    "Memo": "Generated Invoice",
+                    "total Quantity": "",
+                    "Item": "Wind",
+                    "Class": "General",
+                    "Qty": "5",
+                    "Sales Price": "7.24",
+                    "Amount": "36.2",
+                    "Balance": "36.2",
+                    "State": "Latest"
+                }
+            ]
+        },
+        {
+            "Num": "20915",
+            "invoices": [
+                {
+                    "Type": "Invoice",
+                    "Date": "06/18/2021",
+                    "Num": "20915",
+                    "Memo": "Generated Invoice",
+                    "total Quantity": "",
+                    "Item": "Others",
+                    "Class": "General",
+                    "Qty": "1",
+                    "Sales Price": "49.02",
+                    "Amount": "49.02",
+                    "Balance": "49.02",
+                    "State": "Latest"
+                }
+            ]
+        }
+    ]
+}

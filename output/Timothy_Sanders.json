@@ -1,0 +1,83 @@
+{
+    "customer": "Timothy Sanders",
+    "Source Name": "Timothy Sanders",
+    "Name Address": "27281 Bowman Port, Lake Mary, AK 67997",
+    "Name Street1": "27281 Bowman Port",
+    "Name Street2": "",
+    "Name City": "Lake Mary",
+    "Name State": "AK",
+    "Name Zip": "67997",
+    "Name Contact": "",
+    "Name Phone #": "515-266-3521",
+    "Name Fax #": "",
+    "Name E-Mail": "cjohnson@yahoo.com",
+    "Name": "Timothy Sanders",
+    "Ship To Address 1": "",
+    "Ship To Address 2": "",
+    "Ship To State": "",
+    "Ship Zip": "",
+    "Notes": "",
+    "Last Name": "Sanders",
+    "First Name": "Timothy",
+    "Customer Class": "General",
+    "total_sales": "0.00",
+    "purchases": [
+        {
+            "Num": "78067",
+            "invoices": [
+                {
+                    "Type": "Invoice",
+                    "Date": "05/02/2015",
+                    "Num": "78067",
+                    "Memo": "Generated Invoice",
+                    "total Quantity": "",
+                    "Item": "Measure",
+                    "Class": "General",
+                    "Qty": "1",
+                    "Sales Price": "13.56",
+                    "Amount": "13.56",
+                    "Balance": "13.56",
+                    "State": "Latest"
+                }
+            ]
+        },
+        {
+            "Num": "36480",
+            "invoices": [
+                {
+                    "Type": "Invoice",
+                    "Date": "02/13/2017",
+                    "Num": "36480",
+                    "Memo": "Generated Invoice",
+                    "total Quantity": "",
+                    "Item": "Study",
+                    "Class": "General",
+                    "Qty": "3",
+                    "Sales Price": "22.76",
+                    "Amount": "68.28",
+                    "Balance": "68.28",
+                    "State": "Latest"
+                }
+            ]
+        },
+        {
+            "Num": "16396",
+            "invoices": [
+                {
+                    "Type": "Invoice",
+                    "Date": "01/14/2021",
+                    "Num": "16396",
+                    "Memo": "Generated Invoice",
+                    "total Quantity": "",
+                    "Item": "Mother",
+                    "Class": "General",
+                    "Qty": "4",
+                    "Sales Price": "41.63",
+                    "Amount": "166.52",
+                    "Balance": "166.52",
+                    "State": "Latest"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "customer": "Cory Meyer",
+    "Source Name": "Cory Meyer",
+    "Name Address": "485 Grant Square Suite 087, West Nicole, MO 29482",
+    "Name Street1": "485 Grant Square Suite 087",
+    "Name Street2": "",
+    "Name City": "West Nicole",
+    "Name State": "MO",
+    "Name Zip": "29482",
+    "Name Contact": "",
+    "Name Phone #": "858-671-8417x798",
+    "Name Fax #": "",
+    "Name E-Mail": "brucelopez@hotmail.com",
+    "Name": "Cory Meyer",
+    "Ship To Address 1": "",
+    "Ship To Address 2": "",
+    "Ship To State": "",
+    "Ship Zip": "",
+    "Notes": "",
+    "Last Name": "Meyer",
+    "First Name": "Cory",
+    "Customer Class": "General",
+    "total_sales": "0.00",
+    "purchases": [
+        {
+            "Num": "29389",
+            "invoices": [
+                {
+                    "Type": "Invoice",
+                    "Date": "04/03/2023",
+                    "Num": "29389",
+                    "Memo": "Generated Invoice",
+                    "total Quantity": "",
+                    "Item": "New",
+                    "Class": "General",
+                    "Qty": "4",
+                    "Sales Price": "44.26",
+                    "Amount": "177.04",
+                    "Balance": "177.04",
+                    "State": "Latest"
+                }
+            ]
+        },
+        {
+            "Num": "94366",
+            "invoices": [
+                {
+                    "Type": "Invoice",
+                    "Date": "10/09/2018",
+                    "Num": "94366",
+                    "Memo": "Generated Invoice",
+                    "total Quantity": "",
+                    "Item": "Create",
+                    "Class": "General",
+                    "Qty": "1",
+                    "Sales Price": "49.22",
+                    "Amount": "49.22",
+                    "Balance": "49.22",
+                    "State": "Latest"
+                }
+            ]
+        },
+        {
+            "Num": "71856",
+            "invoices": [
+                {
+                    "Type": "Invoice",
+                    "Date": "07/09/2019",
+                    "Num": "71856",
+                    "Memo": "Generated Invoice",
+                    "total Quantity": "",
+                    "Item": "Key",
+                    "Class": "General",
+                    "Qty": "5",
+                    "Sales Price": "6.66",
+                    "Amount": "33.3",
+                    "Balance": "33.3",
+                    "State": "Latest"
+                }
+            ]
+        }
+    ]
+}

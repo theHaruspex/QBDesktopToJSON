@@ -1,0 +1,83 @@
+{
+    "customer": "Sandra Daniel",
+    "Source Name": "Sandra Daniel",
+    "Name Address": "317 Carl Junctions, North Jennifer, MO 98121",
+    "Name Street1": "317 Carl Junctions",
+    "Name Street2": "",
+    "Name City": "North Jennifer",
+    "Name State": "MO",
+    "Name Zip": "98121",
+    "Name Contact": "",
+    "Name Phone #": "203-267-5081x1043",
+    "Name Fax #": "",
+    "Name E-Mail": "hgoodwin@thomas.biz",
+    "Name": "Sandra Daniel",
+    "Ship To Address 1": "",
+    "Ship To Address 2": "",
+    "Ship To State": "",
+    "Ship Zip": "",
+    "Notes": "",
+    "Last Name": "Daniel",
+    "First Name": "Sandra",
+    "Customer Class": "General",
+    "total_sales": "0.00",
+    "purchases": [
+        {
+            "Num": "52440",
+            "invoices": [
+                {
+                    "Type": "Invoice",
+                    "Date": "07/27/2018",
+                    "Num": "52440",
+                    "Memo": "Generated Invoice",
+                    "total Quantity": "",
+                    "Item": "Character",
+                    "Class": "General",
+                    "Qty": "3",
+                    "Sales Price": "45.68",
+                    "Amount": "137.04",
+                    "Balance": "137.04",
+                    "State": "Latest"
+                }
+            ]
+        },
+        {
+            "Num": "78721",
+            "invoices": [
+                {
+                    "Type": "Invoice",
+                    "Date": "10/06/2020",
+                    "Num": "78721",
+                    "Memo": "Generated Invoice",
+                    "total Quantity": "",
+                    "Item": "Set",
+                    "Class": "General",
+                    "Qty": "2",
+                    "Sales Price": "36.86",
+                    "Amount": "73.72",
+                    "Balance": "73.72",
+                    "State": "Latest"
+                }
+            ]
+        },
+        {
+            "Num": "59481",
+            "invoices": [
+                {
+                    "Type": "Invoice",
+                    "Date": "04/04/2021",
+                    "Num": "59481",
+                    "Memo": "Generated Invoice",
+                    "total Quantity": "",
+                    "Item": "Somebody",
+                    "Class": "General",
+                    "Qty": "3",
+                    "Sales Price": "26.48",
+                    "Amount": "79.44",
+                    "Balance": "79.44",
+                    "State": "Latest"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "customer": "Kathleen Pugh",
+    "Source Name": "Kathleen Pugh",
+    "Name Address": "571 Perez Union Apt. 274, Jefferyshire, CT 89720",
+    "Name Street1": "571 Perez Union Apt. 274",
+    "Name Street2": "",
+    "Name City": "Jefferyshire",
+    "Name State": "CT",
+    "Name Zip": "89720",
+    "Name Contact": "",
+    "Name Phone #": "816.615.9537",
+    "Name Fax #": "",
+    "Name E-Mail": "andersonlaura@gmail.com",
+    "Name": "Kathleen Pugh",
+    "Ship To Address 1": "",
+    "Ship To Address 2": "",
+    "Ship To State": "",
+    "Ship Zip": "",
+    "Notes": "",
+    "Last Name": "Pugh",
+    "First Name": "Kathleen",
+    "Customer Class": "General",
+    "total_sales": "0.00",
+    "purchases": [
+        {
+            "Num": "36221",
+            "invoices": [
+                {
+                    "Type": "Invoice",
+                    "Date": "10/14/2019",
+                    "Num": "36221",
+                    "Memo": "Generated Invoice",
+                    "total Quantity": "",
+                    "Item": "Data",
+                    "Class": "General",
+                    "Qty": "5",
+                    "Sales Price": "44.19",
+                    "Amount": "220.95",
+                    "Balance": "220.95",
+                    "State": "Latest"
+                }
+            ]
+        },
+        {
+            "Num": "30497",
+            "invoices": [
+                {
+                    "Type": "Invoice",
+                    "Date": "08/14/2024",
+                    "Num": "30497",
+                    "Memo": "Generated Invoice",
+                    "total Quantity": "",
+                    "Item": "Operation",
+                    "Class": "General",
+                    "Qty": "5",
+                    "Sales Price": "8.35",
+                    "Amount": "41.75",
+                    "Balance": "41.75",
+                    "State": "Latest"
+                }
+            ]
+        },
+        {
+            "Num": "84582",
+            "invoices": [
+                {
+                    "Type": "Invoice",
+                    "Date": "07/22/2016",
+                    "Num": "84582",
+                    "Memo": "Generated Invoice",
+                    "total Quantity": "",
+                    "Item": "Organization",
+                    "Class": "General",
+                    "Qty": "1",
+                    "Sales Price": "16.83",
+                    "Amount": "16.83",
+                    "Balance": "16.83",
+                    "State": "Latest"
+                }
+            ]
+        }
+    ]
+}

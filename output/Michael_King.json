@@ -1,0 +1,83 @@
+{
+    "customer": "Michael King",
+    "Source Name": "Michael King",
+    "Name Address": "28874 Tara Plaza, Wilsontown, PA 11545",
+    "Name Street1": "28874 Tara Plaza",
+    "Name Street2": "",
+    "Name City": "Wilsontown",
+    "Name State": "PA",
+    "Name Zip": "11545",
+    "Name Contact": "",
+    "Name Phone #": "2962936153",
+    "Name Fax #": "",
+    "Name E-Mail": "lsweeney@gmail.com",
+    "Name": "Michael King",
+    "Ship To Address 1": "",
+    "Ship To Address 2": "",
+    "Ship To State": "",
+    "Ship Zip": "",
+    "Notes": "",
+    "Last Name": "King",
+    "First Name": "Michael",
+    "Customer Class": "General",
+    "total_sales": "0.00",
+    "purchases": [
+        {
+            "Num": "61859",
+            "invoices": [
+                {
+                    "Type": "Invoice",
+                    "Date": "07/23/2024",
+                    "Num": "61859",
+                    "Memo": "Generated Invoice",
+                    "total Quantity": "",
+                    "Item": "Else",
+                    "Class": "General",
+                    "Qty": "5",
+                    "Sales Price": "44.4",
+                    "Amount": "222.0",
+                    "Balance": "222.0",
+                    "State": "Latest"
+                }
+            ]
+        },
+        {
+            "Num": "33703",
+            "invoices": [
+                {
+                    "Type": "Invoice",
+                    "Date": "12/28/2019",
+                    "Num": "33703",
+                    "Memo": "Generated Invoice",
+                    "total Quantity": "",
+                    "Item": "Issue",
+                    "Class": "General",
+                    "Qty": "4",
+                    "Sales Price": "28.9",
+                    "Amount": "115.6",
+                    "Balance": "115.6",
+                    "State": "Latest"
+                }
+            ]
+        },
+        {
+            "Num": "27649",
+            "invoices": [
+                {
+                    "Type": "Invoice",
+                    "Date": "03/15/2018",
+                    "Num": "27649",
+                    "Memo": "Generated Invoice",
+                    "total Quantity": "",
+                    "Item": "Big",
+                    "Class": "General",
+                    "Qty": "4",
+                    "Sales Price": "31.08",
+                    "Amount": "124.32",
+                    "Balance": "124.32",
+                    "State": "Latest"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "customer": "Joseph Mccoy",
+    "Source Name": "Joseph Mccoy",
+    "Name Address": "79050 Henderson Stravenue, Lake Georgeville, WY 92363",
+    "Name Street1": "79050 Henderson Stravenue",
+    "Name Street2": "",
+    "Name City": "Lake Georgeville",
+    "Name State": "WY",
+    "Name Zip": "92363",
+    "Name Contact": "",
+    "Name Phone #": "(007)688-3592x1435",
+    "Name Fax #": "",
+    "Name E-Mail": "jordanvicki@jenkins.net",
+    "Name": "Joseph Mccoy",
+    "Ship To Address 1": "",
+    "Ship To Address 2": "",
+    "Ship To State": "",
+    "Ship Zip": "",
+    "Notes": "",
+    "Last Name": "Mccoy",
+    "First Name": "Joseph",
+    "Customer Class": "General",
+    "total_sales": "0.00",
+    "purchases": [
+        {
+            "Num": "35899",
+            "invoices": [
+                {
+                    "Type": "Invoice",
+                    "Date": "03/24/2016",
+                    "Num": "35899",
+                    "Memo": "Generated Invoice",
+                    "total Quantity": "",
+                    "Item": "Focus",
+                    "Class": "General",
+                    "Qty": "5",
+                    "Sales Price": "49.92",
+                    "Amount": "249.6",
+                    "Balance": "249.6",
+                    "State": "Latest"
+                }
+            ]
+        },
+        {
+            "Num": "26222",
+            "invoices": [
+                {
+                    "Type": "Invoice",
+                    "Date": "02/09/2024",
+                    "Num": "26222",
+                    "Memo": "Generated Invoice",
+                    "total Quantity": "",
+                    "Item": "American",
+                    "Class": "General",
+                    "Qty": "2",
+                    "Sales Price": "34.63",
+                    "Amount": "69.26",
+                    "Balance": "69.26",
+                    "State": "Latest"
+                }
+            ]
+        },
+        {
+            "Num": "86579",
+            "invoices": [
+                {
+                    "Type": "Invoice",
+                    "Date": "12/24/2015",
+                    "Num": "86579",
+                    "Memo": "Generated Invoice",
+                    "total Quantity": "",
+                    "Item": "Manage",
+                    "Class": "General",
+                    "Qty": "2",
+                    "Sales Price": "16.65",
+                    "Amount": "33.3",
+                    "Balance": "33.3",
+                    "State": "Latest"
+                }
+            ]
+        }
+    ]
+}

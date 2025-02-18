@@ -1,6 +1,6 @@
 import csv
 from collections import defaultdict
-from _archive.builder.customer_group import CustomerGroup
+from database_builder.customer_group import CustomerGroup
 
 class CSVParser:
     """

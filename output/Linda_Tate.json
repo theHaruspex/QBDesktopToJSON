@@ -1,0 +1,83 @@
+{
+    "customer": "Linda Tate",
+    "Source Name": "Linda Tate",
+    "Name Address": "53058 Watkins Club, Salazarport, MD 11700",
+    "Name Street1": "53058 Watkins Club",
+    "Name Street2": "",
+    "Name City": "Salazarport",
+    "Name State": "MD",
+    "Name Zip": "11700",
+    "Name Contact": "",
+    "Name Phone #": "203-867-9852",
+    "Name Fax #": "",
+    "Name E-Mail": "andersonkatherine@oneal.com",
+    "Name": "Linda Tate",
+    "Ship To Address 1": "",
+    "Ship To Address 2": "",
+    "Ship To State": "",
+    "Ship Zip": "",
+    "Notes": "",
+    "Last Name": "Tate",
+    "First Name": "Linda",
+    "Customer Class": "General",
+    "total_sales": "0.00",
+    "purchases": [
+        {
+            "Num": "66391",
+            "invoices": [
+                {
+                    "Type": "Invoice",
+                    "Date": "06/22/2024",
+                    "Num": "66391",
+                    "Memo": "Generated Invoice",
+                    "total Quantity": "",
+                    "Item": "Pm",
+                    "Class": "General",
+                    "Qty": "3",
+                    "Sales Price": "12.05",
+                    "Amount": "36.15",
+                    "Balance": "36.15",
+                    "State": "Latest"
+                }
+            ]
+        },
+        {
+            "Num": "94849",
+            "invoices": [
+                {
+                    "Type": "Invoice",
+                    "Date": "02/04/2023",
+                    "Num": "94849",
+                    "Memo": "Generated Invoice",
+                    "total Quantity": "",
+                    "Item": "Deep",
+                    "Class": "General",
+                    "Qty": "2",
+                    "Sales Price": "27.24",
+                    "Amount": "54.48",
+                    "Balance": "54.48",
+                    "State": "Latest"
+                }
+            ]
+        },
+        {
+            "Num": "59281",
+            "invoices": [
+                {
+                    "Type": "Invoice",
+                    "Date": "10/16/2017",
+                    "Num": "59281",
+                    "Memo": "Generated Invoice",
+                    "total Quantity": "",
+                    "Item": "Ok",
+                    "Class": "General",
+                    "Qty": "4",
+                    "Sales Price": "23.81",
+                    "Amount": "95.24",
+                    "Balance": "95.24",
+                    "State": "Latest"
+                }
+            ]
+        }
+    ]
+}

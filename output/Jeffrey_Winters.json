@@ -1,0 +1,83 @@
+{
+    "customer": "Jeffrey Winters",
+    "Source Name": "Jeffrey Winters",
+    "Name Address": "10939 Stanley Trail, Port Joshuafurt, CO 27847",
+    "Name Street1": "10939 Stanley Trail",
+    "Name Street2": "",
+    "Name City": "Port Joshuafurt",
+    "Name State": "CO",
+    "Name Zip": "27847",
+    "Name Contact": "",
+    "Name Phone #": "(563)592-3754x51522",
+    "Name Fax #": "",
+    "Name E-Mail": "adamsgregory@hotmail.com",
+    "Name": "Jeffrey Winters",
+    "Ship To Address 1": "",
+    "Ship To Address 2": "",
+    "Ship To State": "",
+    "Ship Zip": "",
+    "Notes": "",
+    "Last Name": "Winters",
+    "First Name": "Jeffrey",
+    "Customer Class": "General",
+    "total_sales": "0.00",
+    "purchases": [
+        {
+            "Num": "90308",
+            "invoices": [
+                {
+                    "Type": "Invoice",
+                    "Date": "07/31/2020",
+                    "Num": "90308",
+                    "Memo": "Generated Invoice",
+                    "total Quantity": "",
+                    "Item": "Loss",
+                    "Class": "General",
+                    "Qty": "5",
+                    "Sales Price": "31.7",
+                    "Amount": "158.5",
+                    "Balance": "158.5",
+                    "State": "Latest"
+                }
+            ]
+        },
+        {
+            "Num": "36017",
+            "invoices": [
+                {
+                    "Type": "Invoice",
+                    "Date": "08/12/2015",
+                    "Num": "36017",
+                    "Memo": "Generated Invoice",
+                    "total Quantity": "",
+                    "Item": "Teach",
+                    "Class": "General",
+                    "Qty": "1",
+                    "Sales Price": "26.44",
+                    "Amount": "26.44",
+                    "Balance": "26.44",
+                    "State": "Latest"
+                }
+            ]
+        },
+        {
+            "Num": "49277",
+            "invoices": [
+                {
+                    "Type": "Invoice",
+                    "Date": "05/24/2023",
+                    "Num": "49277",
+                    "Memo": "Generated Invoice",
+                    "total Quantity": "",
+                    "Item": "Leg",
+                    "Class": "General",
+                    "Qty": "5",
+                    "Sales Price": "46.24",
+                    "Amount": "231.2",
+                    "Balance": "231.2",
+                    "State": "Latest"
+                }
+            ]
+        }
+    ]
+}

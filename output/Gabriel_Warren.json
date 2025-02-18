@@ -1,0 +1,83 @@
+{
+    "customer": "Gabriel Warren",
+    "Source Name": "Gabriel Warren",
+    "Name Address": "2966 Collins Greens Apt. 505, Jesseshire, PA 67628",
+    "Name Street1": "2966 Collins Greens Apt. 505",
+    "Name Street2": "",
+    "Name City": "Jesseshire",
+    "Name State": "PA",
+    "Name Zip": "67628",
+    "Name Contact": "",
+    "Name Phone #": "(019)762-9379x9078",
+    "Name Fax #": "",
+    "Name E-Mail": "breanna50@hotmail.com",
+    "Name": "Gabriel Warren",
+    "Ship To Address 1": "",
+    "Ship To Address 2": "",
+    "Ship To State": "",
+    "Ship Zip": "",
+    "Notes": "",
+    "Last Name": "Warren",
+    "First Name": "Gabriel",
+    "Customer Class": "General",
+    "total_sales": "0.00",
+    "purchases": [
+        {
+            "Num": "40353",
+            "invoices": [
+                {
+                    "Type": "Invoice",
+                    "Date": "11/26/2019",
+                    "Num": "40353",
+                    "Memo": "Generated Invoice",
+                    "total Quantity": "",
+                    "Item": "Meeting",
+                    "Class": "General",
+                    "Qty": "4",
+                    "Sales Price": "43.75",
+                    "Amount": "175.0",
+                    "Balance": "175.0",
+                    "State": "Latest"
+                }
+            ]
+        },
+        {
+            "Num": "82959",
+            "invoices": [
+                {
+                    "Type": "Invoice",
+                    "Date": "06/16/2021",
+                    "Num": "82959",
+                    "Memo": "Generated Invoice",
+                    "total Quantity": "",
+                    "Item": "Be",
+                    "Class": "General",
+                    "Qty": "5",
+                    "Sales Price": "17.83",
+                    "Amount": "89.15",
+                    "Balance": "89.15",
+                    "State": "Latest"
+                }
+            ]
+        },
+        {
+            "Num": "81676",
+            "invoices": [
+                {
+                    "Type": "Invoice",
+                    "Date": "12/21/2022",
+                    "Num": "81676",
+                    "Memo": "Generated Invoice",
+                    "total Quantity": "",
+                    "Item": "Back",
+                    "Class": "General",
+                    "Qty": "4",
+                    "Sales Price": "24.29",
+                    "Amount": "97.16",
+                    "Balance": "97.16",
+                    "State": "Latest"
+                }
+            ]
+        }
+    ]
+}

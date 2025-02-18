@@ -1,0 +1,83 @@
+{
+    "customer": "Scott Chapman",
+    "Source Name": "Scott Chapman",
+    "Name Address": "8998 Teresa Ferry Suite 899, East Jamesville, OH 89159",
+    "Name Street1": "8998 Teresa Ferry Suite 899",
+    "Name Street2": "",
+    "Name City": "East Jamesville",
+    "Name State": "OH",
+    "Name Zip": "89159",
+    "Name Contact": "",
+    "Name Phone #": "(456)636-0216x591",
+    "Name Fax #": "",
+    "Name E-Mail": "shane47@davis.org",
+    "Name": "Scott Chapman",
+    "Ship To Address 1": "",
+    "Ship To Address 2": "",
+    "Ship To State": "",
+    "Ship Zip": "",
+    "Notes": "",
+    "Last Name": "Chapman",
+    "First Name": "Scott",
+    "Customer Class": "General",
+    "total_sales": "0.00",
+    "purchases": [
+        {
+            "Num": "50802",
+            "invoices": [
+                {
+                    "Type": "Invoice",
+                    "Date": "09/21/2019",
+                    "Num": "50802",
+                    "Memo": "Generated Invoice",
+                    "total Quantity": "",
+                    "Item": "Reflect",
+                    "Class": "General",
+                    "Qty": "3",
+                    "Sales Price": "24.51",
+                    "Amount": "73.53",
+                    "Balance": "73.53",
+                    "State": "Latest"
+                }
+            ]
+        },
+        {
+            "Num": "69372",
+            "invoices": [
+                {
+                    "Type": "Invoice",
+                    "Date": "01/11/2019",
+                    "Num": "69372",
+                    "Memo": "Generated Invoice",
+                    "total Quantity": "",
+                    "Item": "Institution",
+                    "Class": "General",
+                    "Qty": "4",
+                    "Sales Price": "10.18",
+                    "Amount": "40.72",
+                    "Balance": "40.72",
+                    "State": "Latest"
+                }
+            ]
+        },
+        {
+            "Num": "89914",
+            "invoices": [
+                {
+                    "Type": "Invoice",
+                    "Date": "04/06/2024",
+                    "Num": "89914",
+                    "Memo": "Generated Invoice",
+                    "total Quantity": "",
+                    "Item": "Raise",
+                    "Class": "General",
+                    "Qty": "4",
+                    "Sales Price": "11.64",
+                    "Amount": "46.56",
+                    "Balance": "46.56",
+                    "State": "Latest"
+                }
+            ]
+        }
+    ]
+}

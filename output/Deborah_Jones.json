@@ -1,0 +1,83 @@
+{
+    "customer": "Deborah Jones",
+    "Source Name": "Deborah Jones",
+    "Name Address": "8610 Amber Street, Alexandertown, NV 59423",
+    "Name Street1": "8610 Amber Street",
+    "Name Street2": "",
+    "Name City": "Alexandertown",
+    "Name State": "NV",
+    "Name Zip": "59423",
+    "Name Contact": "",
+    "Name Phone #": "001-605-499-9565x518",
+    "Name Fax #": "",
+    "Name E-Mail": "sharonfranklin@hotmail.com",
+    "Name": "Deborah Jones",
+    "Ship To Address 1": "",
+    "Ship To Address 2": "",
+    "Ship To State": "",
+    "Ship Zip": "",
+    "Notes": "",
+    "Last Name": "Jones",
+    "First Name": "Deborah",
+    "Customer Class": "General",
+    "total_sales": "0.00",
+    "purchases": [
+        {
+            "Num": "64094",
+            "invoices": [
+                {
+                    "Type": "Invoice",
+                    "Date": "12/18/2015",
+                    "Num": "64094",
+                    "Memo": "Generated Invoice",
+                    "total Quantity": "",
+                    "Item": "Source",
+                    "Class": "General",
+                    "Qty": "1",
+                    "Sales Price": "35.98",
+                    "Amount": "35.98",
+                    "Balance": "35.98",
+                    "State": "Latest"
+                }
+            ]
+        },
+        {
+            "Num": "20156",
+            "invoices": [
+                {
+                    "Type": "Invoice",
+                    "Date": "08/21/2022",
+                    "Num": "20156",
+                    "Memo": "Generated Invoice",
+                    "total Quantity": "",
+                    "Item": "Art",
+                    "Class": "General",
+                    "Qty": "4",
+                    "Sales Price": "13.32",
+                    "Amount": "53.28",
+                    "Balance": "53.28",
+                    "State": "Latest"
+                }
+            ]
+        },
+        {
+            "Num": "90412",
+            "invoices": [
+                {
+                    "Type": "Invoice",
+                    "Date": "11/19/2017",
+                    "Num": "90412",
+                    "Memo": "Generated Invoice",
+                    "total Quantity": "",
+                    "Item": "Matter",
+                    "Class": "General",
+                    "Qty": "4",
+                    "Sales Price": "25.58",
+                    "Amount": "102.32",
+                    "Balance": "102.32",
+                    "State": "Latest"
+                }
+            ]
+        }
+    ]
+}
