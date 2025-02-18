@@ -98,7 +98,7 @@ def cycle(from_date, to_date, filename):
 
 
 def main():
-    """Main function to iterate over JSON entries and process them."""
+    """Main function to iterate over months and process them."""
     logging.info(f"Starting automated QuickBooks export for {len(date_ranges)} entries.")
 
     try:
